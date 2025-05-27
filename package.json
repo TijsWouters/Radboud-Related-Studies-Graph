@@ -1,0 +1,32 @@
+{
+  "name": "radboud-related-studies-graph",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "vite",
+    "build": "vite build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TijsWouters/Radboud-Related-Studies-Graph.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TijsWouters/Radboud-Related-Studies-Graph/issues"
+  },
+  "homepage": "https://github.com/TijsWouters/Radboud-Related-Studies-Graph#readme",
+  "description": "",
+  "dependencies": {
+    "graphology": "^0.26.0",
+    "graphology-layout": "^0.6.1",
+    "graphology-layout-forceatlas2": "^0.10.1",
+    "graphology-layout-noverlap": "^0.4.2",
+    "sigma": "^3.0.2"
+  },
+  "devDependencies": {
+    "vite": "^6.3.5"
+  }
+}
