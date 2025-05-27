@@ -58,7 +58,7 @@
 	data.forEach(row => {
 		const id = row.study;
 		const facs = row.faculty ?? [];
-		const size = radius(row.student_count ? row.student_count / 3 : 1);
+		const size = radius(row.student_count ? row.student_count / 1.5 : 1);
 		const color = colorFor(facs[0])
 
 		if (!g.hasNode(id))
