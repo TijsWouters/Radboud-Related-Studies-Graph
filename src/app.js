@@ -42,9 +42,9 @@ const g = new Graph({ multi: false, type: "undirected" });
 const seen = new Set();                       // dedup edges
 
 data.forEach(row => {
-    const id = row.study;
+    const id = `${row.study} (${row.study_type})`;
     const facs = row.faculty ?? [];
-    const size = radius(row.student_count ? row.student_count / 1.5 : 1);
+    const size = radius(row.student_count ? row.student_count : 0);
     const color = colorFor(facs[0])
 
     if (!g.hasNode(id))
@@ -52,13 +52,13 @@ data.forEach(row => {
 });
 
 data.forEach(row => {
-    (row["related studies"] ?? []).forEach(rel => {
+    (row.related_studies ?? []).forEach(rel => {
         if (!g.hasNode(rel))
             g.addNode(rel, { label: rel, size: 8, color: "#bbbbbb" });
-        const key = (sdbm(row["study"]) + sdbm(rel)) + "";
-        console.log(key)
+        const studyId = `${row.study} (${row.study_type})`;
+        const key = (sdbm(studyId) + sdbm(rel)) + "";
         if (!seen.has(key)) {
-            g.addEdge(row["study"], rel);
+            g.addEdge(`${row.study} (${row.study_type})`, rel);
             seen.add(key);
         }
     });
@@ -66,7 +66,8 @@ data.forEach(row => {
 
 /* ─── 5. Run ForceAtlas-2 in a worker, then start Sigma ──────────────── */
 random.assign(g, { scale: 1 });
-FA2.assign(g, { iterations: 500, settings: { barnesHutOptimize: true, outboundAttractionDistribution: true } });
+const sensibleSettings = FA2.inferSettings(g);
+FA2.assign(g, { iterations: 500, settings: sensibleSettings });
 noverlap.assign(g)
 
 let hovered = null;                        // id of the node under the cursor

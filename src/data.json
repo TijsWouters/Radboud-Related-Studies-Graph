@@ -1,12 +1,12 @@
 [
     {
         "study": "Accounting and Control",
-        "related studies": [
-            "Corporate Finance and Control",
-            "Economics, Behaviour and Policy",
-            "Financial Economics",
-            "International Economics & Development",
-            "International Political Economy"
+        "related_studies": [
+            "Corporate Finance and Control (Master's specialisation)",
+            "Economics, Behaviour and Policy (Master's specialisation)",
+            "Financial Economics (Master's specialisation)",
+            "International Economics & Development (Master's specialisation)",
+            "International Political Economy (Master's specialisation | Joint programme optional)"
         ],
         "faculty": [
             "Nijmegen School of Management"
@@ -16,10 +16,10 @@
     },
     {
         "study": "Adaptive Organisms",
-        "related studies": [
-            "Conservation and Restoration Ecology",
-            "Microbiology",
-            "Environment & Sustainability"
+        "related_studies": [
+            "Conservation and Restoration Ecology (Master's specialisation)",
+            "Microbiology (Master's specialisation)",
+            "Environment & Sustainability (Master's specialisation)"
         ],
         "faculty": [
             "Faculty of Science"
@@ -29,9 +29,21 @@
     },
     {
         "study": "American Studies",
-        "related studies": [
-            "English Language and Culture",
-            "Arts and Culture Studies"
+        "related_studies": [
+            "English Language and Culture (Bachelor's)",
+            "Arts and Culture Studies (Bachelor's)"
+        ],
+        "faculty": [
+            "Faculty of Arts"
+        ],
+        "student_count": "17",
+        "study_type": "Bachelor's"
+    },
+    {
+        "study": "American Studies",
+        "related_studies": [
+            "English Language and Culture (Bachelor's)",
+            "Arts and Culture Studies (Bachelor's)"
         ],
         "faculty": [
             "Faculty of Arts"
@@ -41,11 +53,11 @@
     },
     {
         "study": "Ancient and Medieval Mediterranean Worlds",
-        "related studies": [
-            "Historical Studies",
-            "Roman Archeology",
-            "Politics and Parliament",
-            "Modern and Contemporary History"
+        "related_studies": [
+            "Historical Studies (Master's)",
+            "Roman Archeology (Master's specialisation)",
+            "Politics and Parliament (Master's specialisation)",
+            "Modern and Contemporary History (Master's specialisation)"
         ],
         "faculty": [
             "Faculty of Arts"
@@ -55,12 +67,12 @@
     },
     {
         "study": "Anthropology and Development Studies",
-        "related studies": [
-            "Pre-Master's Anthropology and Development Studies",
-            "Social and Cultural Science: Comparative Research on Societies (research)",
-            "Intersectional Gender Studies",
-            "Sociology",
-            "International Economics & Development"
+        "related_studies": [
+            "Pre-Master's Anthropology and Development Studies (Pre-Master's)",
+            "Social and Cultural Science: Comparative Research on Societies (research) (Research Master's)",
+            "Intersectional Gender Studies (Master's)",
+            "Sociology (Master's)",
+            "International Economics & Development (Master's specialisation)"
         ],
         "faculty": [
             "Faculty of Social Sciences"
@@ -70,39 +82,39 @@
     },
     {
         "study": "Art History",
-        "related studies": [
-            "Arts and Culture Studies",
-            "History",
-            "Philosophy"
+        "related_studies": [
+            "Arts and Culture Studies (Bachelor's)",
+            "History (Bachelor's)",
+            "Philosophy (Bachelor's)"
         ],
         "faculty": [
             "Faculty of Arts"
         ],
-        "student_count": "26",
+        "student_count": "30",
         "study_type": "Bachelor's"
     },
     {
         "study": "Art History",
-        "related studies": [
-            "Creative Industries",
-            "Cultural Policy and the Business of Art",
-            "Tourism and Culture",
-            "Art and Visual Culture",
-            "Roman Archeology"
+        "related_studies": [
+            "Creative Industries (Master's specialisation)",
+            "Cultural Policy and the Business of Art (Master's specialisation)",
+            "Tourism and Culture (Master's specialisation)",
+            "Art and Visual Culture (Master's)",
+            "Roman Archeology (Master's specialisation)"
         ],
         "faculty": [
             "Faculty of Arts"
         ],
-        "student_count": "26",
+        "student_count": "30",
         "study_type": "Master's specialisation"
     },
     {
         "study": "Art and Visual Culture",
-        "related studies": [
-            "Literary Studies",
-            "Creative Industries",
-            "Cultural Policy and the Business of Art",
-            "Art History"
+        "related_studies": [
+            "Literary Studies (Master's)",
+            "Creative Industries (Master's specialisation)",
+            "Cultural Policy and the Business of Art (Master's specialisation)",
+            "Art History (Master's specialisation)"
         ],
         "faculty": [
             "Faculty of Arts"
@@ -112,29 +124,76 @@
     },
     {
         "study": "Artificial Intelligence",
-        "related studies": [
-            "Computing Science",
-            "Biomedical Sciences",
-            "Human Neuroscience",
-            "Medicine",
-            "Molecular Life Sciences",
-            "Linguistics",
-            "Physics and Astronomy"
+        "related_studies": [
+            "Computing Science (Bachelor's)",
+            "Biomedical Sciences (Bachelor's)",
+            "Human Neuroscience (Bachelor's)",
+            "Medicine (Bachelor's)",
+            "Molecular Life Sciences (Bachelor's)",
+            "Linguistics (Bachelor's)",
+            "Physics and Astronomy (Bachelor's)"
         ],
         "faculty": [
             "Faculty of Social Sciences"
         ],
-        "student_count": "152",
+        "student_count": "230",
+        "study_type": "Bachelor's"
+    },
+    {
+        "study": "Artificial Intelligence",
+        "related_studies": [
+            "Computing Science (Bachelor's)",
+            "Biomedical Sciences (Bachelor's)",
+            "Human Neuroscience (Bachelor's)",
+            "Medicine (Bachelor's)",
+            "Molecular Life Sciences (Bachelor's)",
+            "Linguistics (Bachelor's)",
+            "Physics and Astronomy (Bachelor's)"
+        ],
+        "faculty": [
+            "Faculty of Social Sciences"
+        ],
+        "student_count": "230",
         "study_type": "Bachelor's"
     },
     {
         "study": "Arts and Culture Studies",
-        "related studies": [
-            "Arts and Culture Studies",
-            "Art History",
-            "Cultural Anthropology and Development Sociology",
-            "American Studies",
-            "Philosophy"
+        "related_studies": [
+            "Arts and Culture Studies (Bachelor's)",
+            "Art History (Bachelor's)",
+            "Cultural Anthropology and Development Sociology (Bachelor's)",
+            "American Studies (Bachelor's)",
+            "Philosophy (Bachelor's)"
+        ],
+        "faculty": [
+            "Faculty of Arts"
+        ],
+        "student_count": "26",
+        "study_type": "Bachelor's"
+    },
+    {
+        "study": "Arts and Culture Studies",
+        "related_studies": [
+            "Arts and Culture Studies (Bachelor's)",
+            "Art History (Bachelor's)",
+            "Cultural Anthropology and Development Sociology (Bachelor's)",
+            "American Studies (Bachelor's)",
+            "Philosophy (Bachelor's)"
+        ],
+        "faculty": [
+            "Faculty of Arts"
+        ],
+        "student_count": "26",
+        "study_type": "Bachelor's"
+    },
+    {
+        "study": "Arts and Culture Studies",
+        "related_studies": [
+            "Arts and Culture Studies (Bachelor's)",
+            "Art History (Bachelor's)",
+            "Cultural Anthropology and Development Sociology (Bachelor's)",
+            "American Studies (Bachelor's)",
+            "Philosophy (Bachelor's)"
         ],
         "faculty": [
             "Faculty of Arts"
@@ -144,28 +203,28 @@
     },
     {
         "study": "Bedrijfskunde",
-        "related studies": [
-            "Economics and Business Economics",
-            "Economics and Business Economics",
-            "International Business Administration",
-            "Recht en Management",
-            "Public Administration",
-            "International Business Communication"
+        "related_studies": [
+            "Economics and Business Economics (Bachelor's)",
+            "Economics and Business Economics (Bachelor's)",
+            "International Business Administration (Bachelor's)",
+            "Law and Management (Bachelor's)",
+            "Public Administration (Bachelor's)",
+            "International Business Communication (Bachelor's)"
         ],
         "faculty": [
             "Nijmegen School of Management"
         ],
-        "student_count": "289",
+        "student_count": "452",
         "study_type": "Bachelor's"
     },
     {
         "study": "Behaviour Change",
-        "related studies": [
-            "Work, Organisation and Health",
-            "Cognitive Neuroscience (research)",
-            "Social and Cultural Science: Comparative Research on Societies (research)",
-            "Behavioural Science (research)",
-            "Healthcare Psychology"
+        "related_studies": [
+            "Work, Organisation and Health (Master's specialisation)",
+            "Cognitive Neuroscience (research) (Research Master's)",
+            "Social and Cultural Science: Comparative Research on Societies (research) (Research Master's)",
+            "Behavioural Science (research) (Research Master's)",
+            "Healthcare Psychology (Master's specialisation)"
         ],
         "faculty": [
             "Faculty of Social Sciences"
@@ -175,13 +234,13 @@
     },
     {
         "study": "Behavioural Science (research)",
-        "related studies": [
-            "Cognitive Neuroscience (research)",
-            "Social and Cultural Science: Comparative Research on Societies (research)",
-            "Communication Science",
-            "Behaviour Change",
-            "Educational Sciences",
-            "Pedagogical Sciences"
+        "related_studies": [
+            "Cognitive Neuroscience (research) (Research Master's)",
+            "Social and Cultural Science: Comparative Research on Societies (research) (Research Master's)",
+            "Communication Science (Master's)",
+            "Behaviour Change (Master's specialisation)",
+            "Educational Sciences (Master's)",
+            "Pedagogical Sciences (Master's)"
         ],
         "faculty": [
             "Faculty of Social Sciences"
@@ -191,10 +250,10 @@
     },
     {
         "study": "Biblical Exegesis",
-        "related studies": [
-            "Theology 1 yr",
-            "Philosophy of Religion",
-            "Religious Studies"
+        "related_studies": [
+            "Theology 1 yr (Master's specialisation)",
+            "Philosophy of Religion (Master's specialisation)",
+            "Religious Studies (Master's specialisation)"
         ],
         "faculty": [
             "Faculty of Philosophy, Theology and Religious Studies"
@@ -203,51 +262,85 @@
     },
     {
         "study": "Biology",
-        "related studies": [
-            "Biomedical Sciences",
-            "Medicine",
-            "Molecular Life Sciences",
-            "Physics and Astronomy",
-            "Chemistry",
-            "Human Neuroscience"
+        "related_studies": [
+            "Biomedical Sciences (Bachelor's)",
+            "Medicine (Bachelor's)",
+            "Molecular Life Sciences (Bachelor's)",
+            "Physics and Astronomy (Bachelor's)",
+            "Chemistry (Bachelor's)",
+            "Human Neuroscience (Bachelor's)"
         ],
         "faculty": [
             "Faculty of Science"
         ],
-        "student_count": "141",
+        "student_count": "143",
+        "study_type": "Bachelor's"
+    },
+    {
+        "study": "Biology",
+        "related_studies": [
+            "Biomedical Sciences (Bachelor's)",
+            "Medicine (Bachelor's)",
+            "Molecular Life Sciences (Bachelor's)",
+            "Physics and Astronomy (Bachelor's)",
+            "Chemistry (Bachelor's)",
+            "Human Neuroscience (Bachelor's)"
+        ],
+        "faculty": [
+            "Faculty of Science"
+        ],
+        "student_count": "143",
+        "study_type": "Bachelor's"
+    },
+    {
+        "study": "Biology",
+        "related_studies": [
+            "Biomedical Sciences (Bachelor's)",
+            "Medicine (Bachelor's)",
+            "Molecular Life Sciences (Bachelor's)",
+            "Physics and Astronomy (Bachelor's)",
+            "Chemistry (Bachelor's)",
+            "Human Neuroscience (Bachelor's)"
+        ],
+        "faculty": [
+            "Faculty of Science"
+        ],
+        "student_count": "143",
         "study_type": "Bachelor's"
     },
     {
         "study": "Biomedical Sciences",
-        "related studies": [
-            "Medicine",
-            "Biology",
-            "Mathematics"
+        "related_studies": [
+            "Medicine (Bachelor's)",
+            "Biology (Bachelor's)",
+            "Mathematics (Bachelor's)"
         ],
         "faculty": [
             "Faculty of Medical Sciences"
         ],
+        "student_count": "97",
         "study_type": "Bachelor's"
     },
     {
         "study": "Biomedical Sciences",
-        "related studies": [
-            "Molecular Mechanisms of Disease (research)",
-            "Human Biology",
-            "Microbiology"
+        "related_studies": [
+            "Molecular Mechanisms of Disease (research) (Research Master's)",
+            "Human Biology (Master's specialisation)",
+            "Microbiology (Master's specialisation)"
         ],
         "faculty": [
             "Faculty of Medical Sciences"
         ],
+        "student_count": "97",
         "study_type": "Master's"
     },
     {
         "study": "Borders, Migration and Justice",
-        "related studies": [
-            "Conflict, Territories and Identities",
-            "Capital, Labour and Extraction",
-            "Cities, Culture and Inequality",
-            "Two-year Educational Master's Geography"
+        "related_studies": [
+            "Conflict, Territories and Identities (Master's specialisation | Joint programme optional)",
+            "Capital, Labour and Extraction (Master's specialisation | Joint programme optional)",
+            "Cities, Culture and Inequality (Master's specialisation | Joint programme optional)",
+            "Two-year Educational Master's Geography (Master's specialisation)"
         ],
         "faculty": [
             "Nijmegen School of Management"
@@ -256,17 +349,17 @@
     },
     {
         "study": "Business Analysis and Modelling",
-        "related studies": [
-            "European Master in System Dynamics",
-            "Gender Equality, Diversity and Inclusion in Management",
-            "Innovation and Entrepreneurship",
-            "International Business",
-            "Marketing",
-            "Organisational Design & Development",
-            "Strategic Human Resources Leadership",
-            "Strategic Management",
-            "Responsible Digitalisation",
-            "Science for Sustainability"
+        "related_studies": [
+            "European Master in System Dynamics (Master's specialisation | Joint programme)",
+            "Gender Equality, Diversity and Inclusion in Management (Master's specialisation)",
+            "Innovation and Entrepreneurship (Master's specialisation)",
+            "International Business (Master's specialisation | Joint programme optional)",
+            "Marketing (Master's specialisation)",
+            "Organisational Design & Development (Master's specialisation)",
+            "Strategic Human Resources Leadership (Master's specialisation | Joint programme optional)",
+            "Strategic Management (Master's specialisation)",
+            "Responsible Digitalisation (Master's specialisation)",
+            "Science for Sustainability (Master's)"
         ],
         "faculty": [
             "Nijmegen School of Management"
@@ -276,10 +369,10 @@
     },
     {
         "study": "Business Law",
-        "related studies": [
-            "International and European Law Advanced",
-            "European Law and Global Affairs",
-            "Human Rights and Migration"
+        "related_studies": [
+            "International and European Law Advanced (Master's specialisation)",
+            "European Law and Global Affairs (Master's specialisation)",
+            "Human Rights and Migration (Master's specialisation)"
         ],
         "faculty": [
             "Faculty of Law"
@@ -289,23 +382,23 @@
     },
     {
         "study": "Business and Law (research)",
-        "related studies": [
-            "Business and Law - dual master",
-            "Company Law",
-            "Business Law"
+        "related_studies": [
+            "Business and Law - dual master (Master's)",
+            "Company Law (Master's specialisation)",
+            "Business Law (Master's specialisation)"
         ],
         "faculty": [
             "Faculty of Law"
         ],
         "student_count": "12",
-        "study_type": "Onderzoeksmaster"
+        "study_type": "Research Master's"
     },
     {
         "study": "Business and Law - dual master",
-        "related studies": [
-            "Business and Law (research)",
-            "Company Law",
-            "Business Law"
+        "related_studies": [
+            "Business and Law (research) (Research Master's)",
+            "Company Law (Master's specialisation)",
+            "Business Law (Master's specialisation)"
         ],
         "faculty": [
             "Faculty of Law"
@@ -315,11 +408,11 @@
     },
     {
         "study": "Capital, Labour and Extraction",
-        "related studies": [
-            "Conflict, Territories and Identities",
-            "Borders, Migration and Justice",
-            "Cities, Culture and Inequality",
-            "Two-year Educational Master's Geography"
+        "related_studies": [
+            "Conflict, Territories and Identities (Master's specialisation | Joint programme optional)",
+            "Borders, Migration and Justice (Master's specialisation | Joint programme optional)",
+            "Cities, Culture and Inequality (Master's specialisation | Joint programme optional)",
+            "Two-year Educational Master's Geography (Master's specialisation)"
         ],
         "faculty": [
             "Nijmegen School of Management"
@@ -328,12 +421,42 @@
     },
     {
         "study": "Chemistry",
-        "related studies": [
-            "Molecular Life Sciences",
-            "Biomedical Sciences",
-            "Physics and Astronomy",
-            "Science",
-            "Biology"
+        "related_studies": [
+            "Molecular Life Sciences (Bachelor's)",
+            "Biomedical Sciences (Bachelor's)",
+            "Physics and Astronomy (Bachelor's)",
+            "Science (Bachelor's)",
+            "Biology (Bachelor's)"
+        ],
+        "faculty": [
+            "Faculty of Science"
+        ],
+        "student_count": "39",
+        "study_type": "Bachelor's"
+    },
+    {
+        "study": "Chemistry",
+        "related_studies": [
+            "Molecular Life Sciences (Bachelor's)",
+            "Biomedical Sciences (Bachelor's)",
+            "Physics and Astronomy (Bachelor's)",
+            "Science (Bachelor's)",
+            "Biology (Bachelor's)"
+        ],
+        "faculty": [
+            "Faculty of Science"
+        ],
+        "student_count": "39",
+        "study_type": "Bachelor's"
+    },
+    {
+        "study": "Chemistry",
+        "related_studies": [
+            "Molecular Life Sciences (Bachelor's)",
+            "Biomedical Sciences (Bachelor's)",
+            "Physics and Astronomy (Bachelor's)",
+            "Science (Bachelor's)",
+            "Biology (Bachelor's)"
         ],
         "faculty": [
             "Faculty of Science"
@@ -343,10 +466,10 @@
     },
     {
         "study": "Chemistry of Life",
-        "related studies": [
-            "Molecular Chemistry",
-            "Medicinal Chemistry",
-            "Physical Chemistry"
+        "related_studies": [
+            "Molecular Chemistry (Master's specialisation)",
+            "Medicinal Chemistry (Master's specialisation)",
+            "Physical Chemistry (Master's specialisation)"
         ],
         "faculty": [
             "Faculty of Science"
@@ -356,11 +479,11 @@
     },
     {
         "study": "Cities, Culture and Inequality",
-        "related studies": [
-            "Conflict, Territories and Identities",
-            "Capital, Labour and Extraction",
-            "Borders, Migration and Justice",
-            "Two-year Educational Master's Geography"
+        "related_studies": [
+            "Conflict, Territories and Identities (Master's specialisation | Joint programme optional)",
+            "Capital, Labour and Extraction (Master's specialisation | Joint programme optional)",
+            "Borders, Migration and Justice (Master's specialisation | Joint programme optional)",
+            "Two-year Educational Master's Geography (Master's specialisation)"
         ],
         "faculty": [
             "Nijmegen School of Management"
@@ -369,9 +492,9 @@
     },
     {
         "study": "Cities, Water and Climate Change",
-        "related studies": [
-            "Planning, Land and Real Estate Development",
-            "Urban and Regional Mobility"
+        "related_studies": [
+            "Planning, Land and Real Estate Development (Master's specialisation)",
+            "Urban and Regional Mobility (Master's specialisation)"
         ],
         "faculty": [
             "Nijmegen School of Management"
@@ -381,13 +504,13 @@
     },
     {
         "study": "Civil Law",
-        "related studies": [
-            "Financial Law",
-            "Company Law",
-            "Constitutional and Administrative Law",
-            "Criminal Law",
-            "Tax Law",
-            "Notarial Law"
+        "related_studies": [
+            "Financial Law (Master's specialisation)",
+            "Company Law (Master's specialisation)",
+            "Constitutional and Administrative Law (Master's specialisation)",
+            "Criminal Law (Master's specialisation)",
+            "Tax Law (Master's)",
+            "Notarial Law (Master's)"
         ],
         "faculty": [
             "Faculty of Law"
@@ -397,23 +520,23 @@
     },
     {
         "study": "Classics",
-        "related studies": [
-            "History",
-            "Art History",
-            "Arts and Culture Studies"
+        "related_studies": [
+            "History (Bachelor's)",
+            "Art History (Bachelor's)",
+            "Arts and Culture Studies (Bachelor's)"
         ],
         "faculty": [
             "Faculty of Arts"
         ],
-        "student_count": "19",
+        "student_count": "21",
         "study_type": "Bachelor's"
     },
     {
         "study": "Cognitive Computing",
-        "related studies": [
-            "Intelligent Technology",
-            "Cognitive Neuroscience (research)",
-            "Data Science"
+        "related_studies": [
+            "Intelligent Technology (Master's specialisation | Joint programme optional)",
+            "Cognitive Neuroscience (research) (Research Master's)",
+            "Data Science (Master's specialisation)"
         ],
         "faculty": [
             "Faculty of Social Sciences"
@@ -423,13 +546,13 @@
     },
     {
         "study": "Cognitive Neuroscience (research)",
-        "related studies": [
-            "Cognitive Computing",
-            "Intelligent Technology",
-            "Behavioural Science (research)",
-            "Behaviour Change",
-            "Linguistics and Communication Sciences (research)",
-            "Neurobiology"
+        "related_studies": [
+            "Cognitive Computing (Master's specialisation)",
+            "Intelligent Technology (Master's specialisation | Joint programme optional)",
+            "Behavioural Science (research) (Research Master's)",
+            "Behaviour Change (Master's specialisation)",
+            "Linguistics and Communication Sciences (research) (Research Master's)",
+            "Neurobiology (Master's specialisation)"
         ],
         "faculty": [
             "Faculty of Social Sciences"
@@ -439,43 +562,43 @@
     },
     {
         "study": "Communication Science",
-        "related studies": [
-            "Sociology",
-            "Psychology",
-            "Bedrijfskunde",
-            "Pedagogical Sciences",
-            "Bedrijfskunde",
-            "Communication and Information Studies"
+        "related_studies": [
+            "Sociology (Bachelor's)",
+            "Psychology (Bachelor's)",
+            "Bedrijfskunde (Bachelor's)",
+            "Pedagogical Sciences (Bachelor's)",
+            "Bedrijfskunde (Bachelor's)",
+            "Communication and Information Studies (Bachelor's)"
         ],
         "faculty": [
             "Faculty of Social Sciences"
         ],
-        "student_count": "62",
+        "student_count": "107",
         "study_type": "Bachelor's"
     },
     {
         "study": "Communication Science",
-        "related studies": [
-            "Pre-Master's Communication Science",
-            "Communication and Persuasion",
-            "Sociology",
-            "Behavioural Science (research)",
-            "Social and Cultural Science: Comparative Research on Societies (research)",
-            "Global Communication and Diversity"
+        "related_studies": [
+            "Pre-Master's Communication Science (Pre-Master's)",
+            "Communication and Persuasion (Master's specialisation)",
+            "Sociology (Master's)",
+            "Behavioural Science (research) (Research Master's)",
+            "Social and Cultural Science: Comparative Research on Societies (research) (Research Master's)",
+            "Global Communication and Diversity (Master's specialisation)"
         ],
         "faculty": [
             "Faculty of Social Sciences"
         ],
-        "student_count": "67",
+        "student_count": "107",
         "study_type": "Master's"
     },
     {
         "study": "Communication and Information Studies",
-        "related studies": [
-            "Dutch Language and Culture",
-            "Linguistics",
-            "Communication Science",
-            "International Business Communication"
+        "related_studies": [
+            "Dutch Language and Culture (Bachelor's)",
+            "Linguistics (Bachelor's)",
+            "Communication Science (Bachelor's)",
+            "International Business Communication (Bachelor's)"
         ],
         "faculty": [
             "Faculty of Arts"
@@ -485,10 +608,10 @@
     },
     {
         "study": "Communication and Persuasion",
-        "related studies": [
-            "Global Communication and Diversity",
-            "Communication Science",
-            "Linguistics and Communication Sciences (research)"
+        "related_studies": [
+            "Global Communication and Diversity (Master's specialisation)",
+            "Communication Science (Master's)",
+            "Linguistics and Communication Sciences (research) (Research Master's)"
         ],
         "faculty": [
             "Faculty of Arts"
@@ -498,13 +621,13 @@
     },
     {
         "study": "Company Law",
-        "related studies": [
-            "Civil Law",
-            "Financial Law",
-            "Constitutional and Administrative Law",
-            "Criminal Law",
-            "Business and Law (research)",
-            "Business and Law - dual master"
+        "related_studies": [
+            "Civil Law (Master's specialisation)",
+            "Financial Law (Master's specialisation)",
+            "Constitutional and Administrative Law (Master's specialisation)",
+            "Criminal Law (Master's specialisation)",
+            "Business and Law (research) (Research Master's)",
+            "Business and Law - dual master (Master's)"
         ],
         "faculty": [
             "Faculty of Law"
@@ -514,14 +637,14 @@
     },
     {
         "study": "Comparative Politics: Democracies and Autocracies",
-        "related studies": [
-            "Conflict, Power and Politics",
-            "European Union Politics and Governance",
-            "Gender Equality, Diversity and Inclusion in Politics",
-            "Global Political Economy",
-            "International Relations",
-            "Political Theory",
-            "Social and Cultural Science: Comparative Research on Societies (research)"
+        "related_studies": [
+            "Conflict, Power and Politics (Master's specialisation | Joint programme optional)",
+            "European Union Politics and Governance (Master's specialisation | Joint programme optional)",
+            "Gender Equality, Diversity and Inclusion in Politics (Master's specialisation | Joint programme optional)",
+            "Global Political Economy (Master's specialisation | Joint programme optional)",
+            "International Relations (Master's specialisation | Joint programme optional)",
+            "Political Theory (Master's specialisation | Joint programme optional)",
+            "Social and Cultural Science: Comparative Research on Societies (research) (Research Master's)"
         ],
         "faculty": [
             "Nijmegen School of Management"
@@ -531,28 +654,58 @@
     },
     {
         "study": "Computing Science",
-        "related studies": [
-            "Artificial Intelligence",
-            "Physics and Astronomy",
-            "Chemistry",
-            "Mathematics",
-            "Biomedical Sciences"
+        "related_studies": [
+            "Artificial Intelligence (Bachelor's)",
+            "Physics and Astronomy (Bachelor's)",
+            "Chemistry (Bachelor's)",
+            "Mathematics (Bachelor's)",
+            "Biomedical Sciences (Bachelor's)"
         ],
         "faculty": [
             "Faculty of Science"
         ],
-        "student_count": "135",
+        "student_count": "167",
+        "study_type": "Bachelor's"
+    },
+    {
+        "study": "Computing Science",
+        "related_studies": [
+            "Artificial Intelligence (Bachelor's)",
+            "Physics and Astronomy (Bachelor's)",
+            "Chemistry (Bachelor's)",
+            "Mathematics (Bachelor's)",
+            "Biomedical Sciences (Bachelor's)"
+        ],
+        "faculty": [
+            "Faculty of Science"
+        ],
+        "student_count": "167",
+        "study_type": "Bachelor's"
+    },
+    {
+        "study": "Computing Science",
+        "related_studies": [
+            "Artificial Intelligence (Bachelor's)",
+            "Physics and Astronomy (Bachelor's)",
+            "Chemistry (Bachelor's)",
+            "Mathematics (Bachelor's)",
+            "Biomedical Sciences (Bachelor's)"
+        ],
+        "faculty": [
+            "Faculty of Science"
+        ],
+        "student_count": "167",
         "study_type": "Bachelor's"
     },
     {
         "study": "Conflict, Power and Politics",
-        "related studies": [
-            "Comparative Politics: Democracies and Autocracies",
-            "European Union Politics and Governance",
-            "Gender Equality, Diversity and Inclusion in Politics",
-            "Global Political Economy",
-            "International Relations",
-            "Political Theory"
+        "related_studies": [
+            "Comparative Politics: Democracies and Autocracies (Master's specialisation | Joint programme optional)",
+            "European Union Politics and Governance (Master's specialisation | Joint programme optional)",
+            "Gender Equality, Diversity and Inclusion in Politics (Master's specialisation | Joint programme optional)",
+            "Global Political Economy (Master's specialisation | Joint programme optional)",
+            "International Relations (Master's specialisation | Joint programme optional)",
+            "Political Theory (Master's specialisation | Joint programme optional)"
         ],
         "faculty": [
             "Nijmegen School of Management"
@@ -562,11 +715,11 @@
     },
     {
         "study": "Conflict, Territories and Identities",
-        "related studies": [
-            "Capital, Labour and Extraction",
-            "Borders, Migration and Justice",
-            "Cities, Culture and Inequality",
-            "Two-year Educational Master's Geography"
+        "related_studies": [
+            "Capital, Labour and Extraction (Master's specialisation | Joint programme optional)",
+            "Borders, Migration and Justice (Master's specialisation | Joint programme optional)",
+            "Cities, Culture and Inequality (Master's specialisation | Joint programme optional)",
+            "Two-year Educational Master's Geography (Master's specialisation)"
         ],
         "faculty": [
             "Nijmegen School of Management"
@@ -576,10 +729,10 @@
     },
     {
         "study": "Conservation and Restoration Ecology",
-        "related studies": [
-            "Microbiology",
-            "Adaptive Organisms",
-            "Environment & Sustainability"
+        "related_studies": [
+            "Microbiology (Master's specialisation)",
+            "Adaptive Organisms (Master's specialisation)",
+            "Environment & Sustainability (Master's specialisation)"
         ],
         "faculty": [
             "Faculty of Science"
@@ -589,13 +742,13 @@
     },
     {
         "study": "Constitutional and Administrative Law",
-        "related studies": [
-            "Civil Law",
-            "Financial Law",
-            "Company Law",
-            "Criminal Law",
-            "Publiekrecht",
-            "Business and Law (research)"
+        "related_studies": [
+            "Civil Law (Master's specialisation)",
+            "Financial Law (Master's specialisation)",
+            "Company Law (Master's specialisation)",
+            "Criminal Law (Master's specialisation)",
+            "Publiekrecht (Onderzoeksmaster | Joint programme)",
+            "Business and Law (research) (Research Master's)"
         ],
         "faculty": [
             "Faculty of Law"
@@ -605,9 +758,9 @@
     },
     {
         "study": "Continental Philosophy: Phenomenology, Hermeneutics and Psychoanalysis",
-        "related studies": [
-            "Practical Philosophy: Critique of Modernity",
-            "Theology 1 yr"
+        "related_studies": [
+            "Practical Philosophy: Critique of Modernity (Master's specialisation)",
+            "Theology 1 yr (Master's specialisation)"
         ],
         "faculty": [
             "Faculty of Philosophy, Theology and Religious Studies"
@@ -616,12 +769,12 @@
     },
     {
         "study": "Corporate Finance and Control",
-        "related studies": [
-            "Accounting and Control",
-            "Economics, Behaviour and Policy",
-            "Financial Economics",
-            "International Economics & Development",
-            "International Political Economy"
+        "related_studies": [
+            "Accounting and Control (Master's specialisation)",
+            "Economics, Behaviour and Policy (Master's specialisation)",
+            "Financial Economics (Master's specialisation)",
+            "International Economics & Development (Master's specialisation)",
+            "International Political Economy (Master's specialisation | Joint programme optional)"
         ],
         "faculty": [
             "Nijmegen School of Management"
@@ -631,11 +784,11 @@
     },
     {
         "study": "Creative Industries",
-        "related studies": [
-            "Tourism and Culture",
-            "Art and Visual Culture",
-            "Cultural Policy and the Business of Art",
-            "Art History"
+        "related_studies": [
+            "Tourism and Culture (Master's specialisation)",
+            "Art and Visual Culture (Master's)",
+            "Cultural Policy and the Business of Art (Master's specialisation)",
+            "Art History (Master's specialisation)"
         ],
         "faculty": [
             "Faculty of Arts"
@@ -645,13 +798,13 @@
     },
     {
         "study": "Criminal Law",
-        "related studies": [
-            "Civil Law",
-            "Financial Law",
-            "Company Law",
-            "Constitutional and Administrative Law",
-            "Publiekrecht",
-            "Business and Law - dual master"
+        "related_studies": [
+            "Civil Law (Master's specialisation)",
+            "Financial Law (Master's specialisation)",
+            "Company Law (Master's specialisation)",
+            "Constitutional and Administrative Law (Master's specialisation)",
+            "Publiekrecht (Onderzoeksmaster | Joint programme)",
+            "Business and Law - dual master (Master's)"
         ],
         "faculty": [
             "Faculty of Law"
@@ -661,27 +814,27 @@
     },
     {
         "study": "Cultural Anthropology and Development Sociology",
-        "related studies": [
-            "Sociology",
-            "Geography, Spatial Planning and Environment",
-            "Communication Science",
-            "Psychology",
-            "Philosophy, Politics and Society",
-            "Arts and Culture Studies"
+        "related_studies": [
+            "Sociology (Bachelor's)",
+            "Geography, Spatial Planning and Environment (Bachelor's)",
+            "Communication Science (Bachelor's)",
+            "Psychology (Bachelor's)",
+            "Philosophy, Politics and Society (Bachelor's)",
+            "Arts and Culture Studies (Bachelor's)"
         ],
         "faculty": [
             "Faculty of Social Sciences"
         ],
-        "student_count": "61",
+        "student_count": "65",
         "study_type": "Bachelor's"
     },
     {
         "study": "Cultural Policy and the Business of Art",
-        "related studies": [
-            "Creative Industries",
-            "Art History",
-            "Art and Visual Culture",
-            "The Book Industry"
+        "related_studies": [
+            "Creative Industries (Master's specialisation)",
+            "Art History (Master's specialisation)",
+            "Art and Visual Culture (Master's)",
+            "The Book Industry (Master's specialisation)"
         ],
         "faculty": [
             "Faculty of Arts"
@@ -691,10 +844,10 @@
     },
     {
         "study": "Curriculum Development for Primary Education",
-        "related studies": [
-            "Pedagogical Sciences",
-            "Educational Sciences",
-            "Pre-master Curriculumontwikkeling voor Primair Onderwijs"
+        "related_studies": [
+            "Pedagogical Sciences (Master's)",
+            "Educational Sciences (Master's)",
+            "Pre-master Curriculumontwikkeling voor Primair Onderwijs (Pre-Master's)"
         ],
         "faculty": [
             "Faculty of Social Sciences"
@@ -704,10 +857,10 @@
     },
     {
         "study": "Cyber Security",
-        "related studies": [
-            "Data Science",
-            "Information Sciences",
-            "Software Science"
+        "related_studies": [
+            "Data Science (Master's specialisation)",
+            "Information Sciences (Master's)",
+            "Software Science (Master's specialisation)"
         ],
         "faculty": [
             "Faculty of Science"
@@ -717,10 +870,10 @@
     },
     {
         "study": "Cyber Security and AI",
-        "related studies": [
-            "Cyber Security",
-            "Cognitive Computing",
-            "Intelligent Technology"
+        "related_studies": [
+            "Cyber Security (Master's specialisation)",
+            "Cognitive Computing (Master's specialisation)",
+            "Intelligent Technology (Master's specialisation | Joint programme optional)"
         ],
         "faculty": [
             "Faculty of Science"
@@ -729,24 +882,11 @@
         "study_type": "Master's specialisation | Joint programme optional"
     },
     {
-        "study": "Cyber Security and AI",
-        "related studies": [
-            "Cyber Security",
-            "Cognitive Computing",
-            "Intelligent Technology"
-        ],
-        "faculty": [
-            "Faculty of Science"
-        ],
-        "student_count": "20",
-        "study_type": "Masterspecialisatie | Joint programme optioneel"
-    },
-    {
         "study": "Data Science",
-        "related studies": [
-            "Software Science",
-            "Cyber Security",
-            "Mathematical Foundations of Computer Science"
+        "related_studies": [
+            "Software Science (Master's specialisation)",
+            "Cyber Security (Master's specialisation)",
+            "Mathematical Foundations of Computer Science (Master's specialisation)"
         ],
         "faculty": [
             "Faculty of Science"
@@ -756,49 +896,51 @@
     },
     {
         "study": "Dentistry",
-        "related studies": [
-            "Medicine",
-            "Biomedical Sciences",
-            "Biology"
+        "related_studies": [
+            "Medicine (Bachelor's)",
+            "Biomedical Sciences (Bachelor's)",
+            "Biology (Bachelor's)"
         ],
         "faculty": [
             "Faculty of Medical Sciences"
         ],
+        "student_count": "66",
         "study_type": "Bachelor's"
     },
     {
         "study": "Dentistry",
-        "related studies": [
-            "Medicine",
-            "Biomedical Sciences",
-            "Molecular Mechanisms of Disease (research)"
+        "related_studies": [
+            "Medicine (Master's)",
+            "Biomedical Sciences (Master's)",
+            "Molecular Mechanisms of Disease (research) (Research Master's)"
         ],
         "faculty": [
             "Faculty of Medical Sciences"
         ],
+        "student_count": "66",
         "study_type": "Master's"
     },
     {
         "study": "Dutch Language and Culture",
-        "related studies": [
-            "Linguistics",
-            "Communication and Information Studies",
-            "Arts and Culture Studies",
-            "Communication Science"
+        "related_studies": [
+            "Linguistics (Bachelor's)",
+            "Communication and Information Studies (Bachelor's)",
+            "Arts and Culture Studies (Bachelor's)",
+            "Communication Science (Bachelor's)"
         ],
         "faculty": [
             "Faculty of Arts"
         ],
-        "student_count": "27",
+        "student_count": "29",
         "study_type": "Bachelor's"
     },
     {
         "study": "Dutch as a Second Language: Teacher and Expert",
-        "related studies": [
-            "Language Variation and Multilingualism",
-            "Educational Sciences",
-            "Communication and Persuasion",
-            "Two-year Educational Master's Dutch"
+        "related_studies": [
+            "Language Variation and Multilingualism (Master's specialisation)",
+            "Educational Sciences (Master's)",
+            "Communication and Persuasion (Master's specialisation)",
+            "Two-year Educational Master's Dutch (Master's specialisation)"
         ],
         "faculty": [
             "Faculty of Arts"
@@ -808,42 +950,74 @@
     },
     {
         "study": "Dutch-German-Studies (joint degree)",
-        "related studies": [
-            "Global Communication and Diversity",
-            "Linguistics and Communication Sciences (research)",
-            "Political Theory",
-            "Two-year Educational Master's German"
+        "related_studies": [
+            "Global Communication and Diversity (Master's specialisation)",
+            "Linguistics and Communication Sciences (research) (Research Master's)",
+            "Political Theory (Master's specialisation | Joint programme optional)",
+            "Two-year Educational Master's German (Master's specialisation)"
         ],
         "faculty": [
             "Faculty of Arts"
         ],
         "student_count": "11",
-        "study_type": "Master | Joint programme"
+        "study_type": "Master's | Joint programme"
     },
     {
         "study": "Economics and Business Economics",
-        "related studies": [
-            "Bedrijfskunde",
-            "Economics and Business Economics",
-            "Law and Economics",
-            "Public Administration",
-            "International Business Administration",
-            "Political Science"
+        "related_studies": [
+            "Bedrijfskunde (Bachelor's)",
+            "Economics and Business Economics (Bachelor's)",
+            "Law and Economics (Bachelor's)",
+            "Public Administration (Bachelor's)",
+            "International Business Administration (Bachelor's)",
+            "Political Science (Bachelor's)"
         ],
         "faculty": [
             "Nijmegen School of Management"
         ],
-        "student_count": "106",
+        "student_count": "189",
+        "study_type": "Bachelor's"
+    },
+    {
+        "study": "Economics and Business Economics",
+        "related_studies": [
+            "Bedrijfskunde (Bachelor's)",
+            "Economics and Business Economics (Bachelor's)",
+            "Law and Economics (Bachelor's)",
+            "Public Administration (Bachelor's)",
+            "International Business Administration (Bachelor's)",
+            "Political Science (Bachelor's)"
+        ],
+        "faculty": [
+            "Nijmegen School of Management"
+        ],
+        "student_count": "189",
+        "study_type": "Bachelor's"
+    },
+    {
+        "study": "Economics and Business Economics",
+        "related_studies": [
+            "Bedrijfskunde (Bachelor's)",
+            "Economics and Business Economics (Bachelor's)",
+            "Law and Economics (Bachelor's)",
+            "Public Administration (Bachelor's)",
+            "International Business Administration (Bachelor's)",
+            "Political Science (Bachelor's)"
+        ],
+        "faculty": [
+            "Nijmegen School of Management"
+        ],
+        "student_count": "189",
         "study_type": "Bachelor's"
     },
     {
         "study": "Economics, Behaviour and Policy",
-        "related studies": [
-            "Accounting and Control",
-            "Corporate Finance and Control",
-            "Financial Economics",
-            "International Economics & Development",
-            "International Political Economy"
+        "related_studies": [
+            "Accounting and Control (Master's specialisation)",
+            "Corporate Finance and Control (Master's specialisation)",
+            "Financial Economics (Master's specialisation)",
+            "International Economics & Development (Master's specialisation)",
+            "International Political Economy (Master's specialisation | Joint programme optional)"
         ],
         "faculty": [
             "Nijmegen School of Management"
@@ -852,12 +1026,176 @@
         "study_type": "Master's specialisation"
     },
     {
+        "study": "Educatieve Minor of Module Informatica",
+        "related_studies": [
+            "Eenjarige Educatieve Master Informatica (Master's specialisation)",
+            "Two-year Educational Master's Science Education (Master's)",
+            "Computing Science (Bachelor's)"
+        ],
+        "faculty": [
+            "Radboud Teachers Academy"
+        ],
+        "study_type": "Educatieve minor/ module"
+    },
+    {
+        "study": "Education Module Biology",
+        "related_studies": [
+            "Master in teaching Biology (Master's specialisation)",
+            "Biology (Bachelor's)"
+        ],
+        "faculty": [
+            "Radboud Teachers Academy"
+        ],
+        "study_type": "Educatieve minor/ module"
+    },
+    {
+        "study": "Education Module Chemistry",
+        "related_studies": [
+            "One-year Educational Master's Chemistry (Master's specialisation)",
+            "Two-year Educational Master's Science Education (Master's)",
+            "Chemistry (Bachelor's)"
+        ],
+        "faculty": [
+            "Radboud Teachers Academy"
+        ],
+        "study_type": "Educatieve minor/ module"
+    },
+    {
+        "study": "Education Module Dutch",
+        "related_studies": [
+            "One-year Educational Master's Dutch (Master's specialisation)",
+            "Two-year Educational Master's Dutch (Master's specialisation)",
+            "Dutch Language and Culture (Bachelor's)"
+        ],
+        "faculty": [
+            "Radboud Teachers Academy"
+        ],
+        "study_type": "Educatieve minor/ module"
+    },
+    {
+        "study": "Education Module English",
+        "related_studies": [
+            "Two-year Educational Master's English (Master's specialisation)",
+            "One-year Educational Master's English (Master's specialisation)",
+            "Two-year Educational Pre-Master's English (Pre-Master's)"
+        ],
+        "faculty": [
+            "Radboud Teachers Academy"
+        ],
+        "study_type": "Educatieve minor/ module"
+    },
+    {
+        "study": "Education Module French",
+        "related_studies": [
+            "One-year Educational Master's French (Master's specialisation)",
+            "Two-year Educational Master's French (Master's specialisation)",
+            "French Language and Culture (Bachelor's)"
+        ],
+        "faculty": [
+            "Radboud Teachers Academy"
+        ],
+        "study_type": "Educatieve minor/ module"
+    },
+    {
+        "study": "Education Module Geography",
+        "related_studies": [
+            "One-year Educational Master's Geography (Master's specialisation)"
+        ],
+        "faculty": [
+            "Radboud Teachers Academy"
+        ],
+        "study_type": "Educatieve minor/ module"
+    },
+    {
+        "study": "Education Module German",
+        "related_studies": [
+            "One-year Educational Master's German (Master's specialisation)",
+            "Two-year Educational Master's German (Master's specialisation)",
+            "German Language and Culture (Bachelor's)"
+        ],
+        "faculty": [
+            "Radboud Teachers Academy"
+        ],
+        "study_type": "Educatieve minor/ module"
+    },
+    {
+        "study": "Education Module Greek and Latin",
+        "related_studies": [
+            "One-year Educational Master's Greek & Latin (Master's specialisation)",
+            "Two-year Educational Master's Classics (Master's specialisation)",
+            "Classics (Bachelor's)"
+        ],
+        "faculty": [
+            "Radboud Teachers Academy"
+        ],
+        "study_type": "Educatieve minor/ module"
+    },
+    {
+        "study": "Education Module History",
+        "related_studies": [
+            "One-year Educational Master's History and Civics (Master's specialisation)",
+            "Two-year Educational Master's History (Master's specialisation)",
+            "Two-year Educational Pre-Master's History (Pre-Master's)"
+        ],
+        "faculty": [
+            "Radboud Teachers Academy"
+        ],
+        "study_type": "Educatieve minor/ module"
+    },
+    {
+        "study": "Education Module Mathematics",
+        "related_studies": [
+            "One-year Educational Master's Mathematics (Master's specialisation)",
+            "Two-year Educational Master's Science Education (Master's)",
+            "Mathematics (Bachelor's)"
+        ],
+        "faculty": [
+            "Radboud Teachers Academy"
+        ],
+        "study_type": "Educatieve minor/ module"
+    },
+    {
+        "study": "Education Module Physics",
+        "related_studies": [
+            "One-year Educational Master's Physics (Master's specialisation)",
+            "Physics and Astronomy (Bachelor's)"
+        ],
+        "faculty": [
+            "Radboud Teachers Academy"
+        ],
+        "study_type": "Educatieve minor/ module"
+    },
+    {
+        "study": "Education Module Religious Studies",
+        "related_studies": [
+            "One-year Educational Master's Religious Studies (Master's specialisation)",
+            "Two-year Educational Master's Religion (Master's specialisation)",
+            "Philosophy of Religious Sciences (Master's specialisation)"
+        ],
+        "faculty": [
+            "Radboud Teachers Academy"
+        ],
+        "study_type": "Educatieve minor/ module"
+    },
+    {
+        "study": "Education Module Spanish",
+        "related_studies": [
+            "One-year Educational Master's Spanish (Master's specialisation)",
+            "Two-year Educational Master's Spanish (Master's specialisation)",
+            "Spanish Language and Culture (Bachelor's)"
+        ],
+        "faculty": [
+            "Radboud Teachers Academy"
+        ],
+        "study_type": "Educatieve minor/ module"
+    },
+    {
         "study": "Education in Museums and Heritage (double degree programme)",
-        "related studies": [
-            "Art History",
-            "Cultural Policy and the Business of Art",
-            "Creative Industries",
-            "Tourism and Culture"
+        "related_studies": [
+            "Art History (Master's specialisation)",
+            "Cultural Policy and the Business of Art (Master's specialisation)",
+            "Creative Industries (Master's specialisation)",
+            "Tourism and Culture (Master's specialisation)"
         ],
         "faculty": [
             "Faculty of Arts"
@@ -866,12 +1204,12 @@
     },
     {
         "study": "Educational Sciences",
-        "related studies": [
-            "Behavioural Science (research)",
-            "Curriculum Development for Primary Education",
-            "Sociology",
-            "Pedagogical Sciences",
-            "Dutch as a Second Language: Teacher and Expert"
+        "related_studies": [
+            "Behavioural Science (research) (Research Master's)",
+            "Curriculum Development for Primary Education (Master's)",
+            "Sociology (Master's)",
+            "Pedagogical Sciences (Master's)",
+            "Dutch as a Second Language: Teacher and Expert (Master's specialisation)"
         ],
         "faculty": [
             "Faculty of Social Sciences"
@@ -880,10 +1218,30 @@
         "study_type": "Master's"
     },
     {
+        "study": "Eenjarige Educatieve Master Informatica",
+        "related_studies": [],
+        "faculty": [
+            "Radboud Teachers Academy"
+        ],
+        "study_type": "Master's specialisation"
+    },
+    {
         "study": "English Language and Culture",
-        "related studies": [
-            "American Studies",
-            "Arts and Culture Studies"
+        "related_studies": [
+            "American Studies (Bachelor's)",
+            "Arts and Culture Studies (Bachelor's)"
+        ],
+        "faculty": [
+            "Faculty of Arts"
+        ],
+        "student_count": "69",
+        "study_type": "Bachelor's"
+    },
+    {
+        "study": "English Language and Culture",
+        "related_studies": [
+            "American Studies (Bachelor's)",
+            "Arts and Culture Studies (Bachelor's)"
         ],
         "faculty": [
             "Faculty of Arts"
@@ -893,10 +1251,10 @@
     },
     {
         "study": "Environment & Sustainability",
-        "related studies": [
-            "Adaptive Organisms",
-            "Conservation and Restoration Ecology",
-            "Science, Management and Innovation"
+        "related_studies": [
+            "Adaptive Organisms (Master's specialisation)",
+            "Conservation and Restoration Ecology (Master's specialisation)",
+            "Science, Management and Innovation (Master's specialisation)"
         ],
         "faculty": [
             "Faculty of Science"
@@ -906,10 +1264,10 @@
     },
     {
         "study": "Environmental Justice and Governance",
-        "related studies": [
-            "Global Environment and Sustainability",
-            "Local Environmental Change and Sustainable Cities",
-            "Sustainable Economies and Corporations"
+        "related_studies": [
+            "Global Environment and Sustainability (Master's specialisation)",
+            "Local Environmental Change and Sustainable Cities (Master's specialisation)",
+            "Sustainable Economies and Corporations (Master's specialisation)"
         ],
         "faculty": [
             "Nijmegen School of Management"
@@ -918,25 +1276,33 @@
         "study_type": "Master's specialisation"
     },
     {
+        "study": "Ethics and Political Philosophy",
+        "related_studies": [],
+        "faculty": [
+            "Faculty of Philosophy, Theology and Religious Studies"
+        ],
+        "study_type": "Master's"
+    },
+    {
         "study": "European Law School",
-        "related studies": [
-            "Law",
-            "Notarial Law",
-            "Recht en Management",
-            "Law and Economics"
+        "related_studies": [
+            "Law (Bachelor's)",
+            "Notarial Law (Bachelor's)",
+            "Law and Management (Bachelor's)",
+            "Law and Economics (Bachelor's)"
         ],
         "faculty": [
             "Faculty of Law"
         ],
-        "student_count": "74",
+        "student_count": "83",
         "study_type": "Bachelor's"
     },
     {
         "study": "European Law and Global Affairs",
-        "related studies": [
-            "International and European Law Advanced",
-            "Human Rights and Migration",
-            "Business Law"
+        "related_studies": [
+            "International and European Law Advanced (Master's specialisation)",
+            "Human Rights and Migration (Master's specialisation)",
+            "Business Law (Master's specialisation)"
         ],
         "faculty": [
             "Faculty of Law"
@@ -946,17 +1312,17 @@
     },
     {
         "study": "European Master in System Dynamics",
-        "related studies": [
-            "Business Analysis and Modelling",
-            "Gender Equality, Diversity and Inclusion in Management",
-            "Innovation and Entrepreneurship",
-            "International Business",
-            "Marketing",
-            "Organisational Design & Development",
-            "Strategic Human Resources Leadership",
-            "Strategic Management",
-            "Science for Sustainability",
-            "Responsible Digitalisation"
+        "related_studies": [
+            "Business Analysis and Modelling (Master's specialisation)",
+            "Gender Equality, Diversity and Inclusion in Management (Master's specialisation)",
+            "Innovation and Entrepreneurship (Master's specialisation)",
+            "International Business (Master's specialisation | Joint programme optional)",
+            "Marketing (Master's specialisation)",
+            "Organisational Design & Development (Master's specialisation)",
+            "Strategic Human Resources Leadership (Master's specialisation | Joint programme optional)",
+            "Strategic Management (Master's specialisation)",
+            "Science for Sustainability (Master's)",
+            "Responsible Digitalisation (Master's specialisation)"
         ],
         "faculty": [
             "Nijmegen School of Management"
@@ -966,10 +1332,10 @@
     },
     {
         "study": "European Union Governance and Politics",
-        "related studies": [
-            "Policy, Knowledge and Conflict",
-            "Governance of Safety and Security",
-            "Management of Civil Challenges"
+        "related_studies": [
+            "Policy, Knowledge and Conflict (Master's specialisation)",
+            "Governance of Safety and Security (Master's specialisation)",
+            "Management of Civil Challenges (Master's specialisation)"
         ],
         "faculty": [
             "Nijmegen School of Management"
@@ -979,13 +1345,13 @@
     },
     {
         "study": "European Union Politics and Governance",
-        "related studies": [
-            "Comparative Politics: Democracies and Autocracies",
-            "Conflict, Power and Politics",
-            "Gender Equality, Diversity and Inclusion in Politics",
-            "Global Political Economy",
-            "International Relations",
-            "Political Theory"
+        "related_studies": [
+            "Comparative Politics: Democracies and Autocracies (Master's specialisation | Joint programme optional)",
+            "Conflict, Power and Politics (Master's specialisation | Joint programme optional)",
+            "Gender Equality, Diversity and Inclusion in Politics (Master's specialisation | Joint programme optional)",
+            "Global Political Economy (Master's specialisation | Joint programme optional)",
+            "International Relations (Master's specialisation | Joint programme optional)",
+            "Political Theory (Master's specialisation | Joint programme optional)"
         ],
         "faculty": [
             "Nijmegen School of Management"
@@ -995,10 +1361,10 @@
     },
     {
         "study": "Filosofie van de Geesteswetenschappen",
-        "related studies": [
-            "Creative Industries",
-            "Art and Visual Culture",
-            "Practical Philosophy: Critique of Modernity"
+        "related_studies": [
+            "Creative Industries (Master's specialisation)",
+            "Art and Visual Culture (Master's)",
+            "Practical Philosophy: Critique of Modernity (Master's specialisation)"
         ],
         "faculty": [
             "Faculty of Philosophy, Theology and Religious Studies"
@@ -1007,12 +1373,12 @@
     },
     {
         "study": "Financial Economics",
-        "related studies": [
-            "Accounting and Control",
-            "Corporate Finance and Control",
-            "Financial Economics",
-            "International Economics & Development",
-            "International Political Economy"
+        "related_studies": [
+            "Accounting and Control (Master's specialisation)",
+            "Corporate Finance and Control (Master's specialisation)",
+            "Financial Economics (Master's specialisation)",
+            "International Economics & Development (Master's specialisation)",
+            "International Political Economy (Master's specialisation | Joint programme optional)"
         ],
         "faculty": [
             "Nijmegen School of Management"
@@ -1022,13 +1388,13 @@
     },
     {
         "study": "Financial Law",
-        "related studies": [
-            "Civil Law",
-            "Company Law",
-            "Constitutional and Administrative Law",
-            "Criminal Law",
-            "Tax Law",
-            "Notarial Law"
+        "related_studies": [
+            "Civil Law (Master's specialisation)",
+            "Company Law (Master's specialisation)",
+            "Constitutional and Administrative Law (Master's specialisation)",
+            "Criminal Law (Master's specialisation)",
+            "Tax Law (Master's)",
+            "Notarial Law (Master's)"
         ],
         "faculty": [
             "Faculty of Law"
@@ -1038,11 +1404,11 @@
     },
     {
         "study": "French Language and Culture",
-        "related studies": [
-            "Communication and Information Studies",
-            "Spanish Language and Culture",
-            "German Language and Culture",
-            "Linguistics"
+        "related_studies": [
+            "Communication and Information Studies (Bachelor's)",
+            "Spanish Language and Culture (Bachelor's)",
+            "German Language and Culture (Bachelor's)",
+            "Linguistics (Bachelor's)"
         ],
         "faculty": [
             "Faculty of Arts"
@@ -1052,17 +1418,17 @@
     },
     {
         "study": "Gender Equality, Diversity and Inclusion in Management",
-        "related studies": [
-            "Business Analysis and Modelling",
-            "European Master in System Dynamics",
-            "Innovation and Entrepreneurship",
-            "International Business",
-            "Marketing",
-            "Organisational Design & Development",
-            "Responsible Digitalisation",
-            "Science for Sustainability",
-            "Strategic Human Resources Leadership",
-            "Strategic Management"
+        "related_studies": [
+            "Business Analysis and Modelling (Master's specialisation)",
+            "European Master in System Dynamics (Master's specialisation | Joint programme)",
+            "Innovation and Entrepreneurship (Master's specialisation)",
+            "International Business (Master's specialisation | Joint programme optional)",
+            "Marketing (Master's specialisation)",
+            "Organisational Design & Development (Master's specialisation)",
+            "Responsible Digitalisation (Master's specialisation)",
+            "Science for Sustainability (Master's)",
+            "Strategic Human Resources Leadership (Master's specialisation | Joint programme optional)",
+            "Strategic Management (Master's specialisation)"
         ],
         "faculty": [
             "Nijmegen School of Management"
@@ -1072,13 +1438,13 @@
     },
     {
         "study": "Gender Equality, Diversity and Inclusion in Politics",
-        "related studies": [
-            "Comparative Politics: Democracies and Autocracies",
-            "Conflict, Power and Politics",
-            "European Union Politics and Governance",
-            "Global Political Economy",
-            "International Relations",
-            "Political Theory"
+        "related_studies": [
+            "Comparative Politics: Democracies and Autocracies (Master's specialisation | Joint programme optional)",
+            "Conflict, Power and Politics (Master's specialisation | Joint programme optional)",
+            "European Union Politics and Governance (Master's specialisation | Joint programme optional)",
+            "Global Political Economy (Master's specialisation | Joint programme optional)",
+            "International Relations (Master's specialisation | Joint programme optional)",
+            "Political Theory (Master's specialisation | Joint programme optional)"
         ],
         "faculty": [
             "Nijmegen School of Management"
@@ -1088,38 +1454,38 @@
     },
     {
         "study": "Geography, Spatial Planning and Environment",
-        "related studies": [
-            "Sociology",
-            "Political Science",
-            "Public Administration",
-            "Cultural Anthropology and Development Sociology",
-            "Physics and Astronomy",
-            "Biology"
+        "related_studies": [
+            "Sociology (Bachelor's)",
+            "Political Science (Bachelor's)",
+            "Public Administration (Bachelor's)",
+            "Cultural Anthropology and Development Sociology (Bachelor's)",
+            "Physics and Astronomy (Bachelor's)",
+            "Biology (Bachelor's)"
         ],
         "faculty": [
             "Nijmegen School of Management"
         ],
-        "student_count": "131",
+        "student_count": "154",
         "study_type": "Bachelor's"
     },
     {
         "study": "German Language and Culture",
-        "related studies": [
-            "International Business Communication",
-            "History",
-            "Linguistics"
+        "related_studies": [
+            "International Business Communication (Bachelor's)",
+            "History (Bachelor's)",
+            "Linguistics (Bachelor's)"
         ],
         "faculty": [
             "Faculty of Arts"
         ],
-        "student_count": "7",
+        "student_count": "10",
         "study_type": "Bachelor's"
     },
     {
         "study": "Global Communication and Diversity",
-        "related studies": [
-            "Linguistics and Communication Sciences (research)",
-            "Communication and Persuasion"
+        "related_studies": [
+            "Linguistics and Communication Sciences (research) (Research Master's)",
+            "Communication and Persuasion (Master's specialisation)"
         ],
         "faculty": [
             "Faculty of Arts"
@@ -1129,11 +1495,11 @@
     },
     {
         "study": "Global Environment and Sustainability",
-        "related studies": [
-            "Sustainable Economies and Corporations",
-            "Local Environmental Change and Sustainable Cities",
-            "Environmental Justice and Governance",
-            "Science for Sustainability"
+        "related_studies": [
+            "Sustainable Economies and Corporations (Master's specialisation)",
+            "Local Environmental Change and Sustainable Cities (Master's specialisation)",
+            "Environmental Justice and Governance (Master's specialisation)",
+            "Science for Sustainability (Master's)"
         ],
         "faculty": [
             "Nijmegen School of Management"
@@ -1143,13 +1509,13 @@
     },
     {
         "study": "Global Political Economy",
-        "related studies": [
-            "Comparative Politics: Democracies and Autocracies",
-            "Conflict, Power and Politics",
-            "European Union Politics and Governance",
-            "Gender Equality, Diversity and Inclusion in Politics",
-            "International Relations",
-            "Political Theory"
+        "related_studies": [
+            "Comparative Politics: Democracies and Autocracies (Master's specialisation | Joint programme optional)",
+            "Conflict, Power and Politics (Master's specialisation | Joint programme optional)",
+            "European Union Politics and Governance (Master's specialisation | Joint programme optional)",
+            "Gender Equality, Diversity and Inclusion in Politics (Master's specialisation | Joint programme optional)",
+            "International Relations (Master's specialisation | Joint programme optional)",
+            "Political Theory (Master's specialisation | Joint programme optional)"
         ],
         "faculty": [
             "Nijmegen School of Management"
@@ -1159,10 +1525,10 @@
     },
     {
         "study": "Governance of Safety and Security",
-        "related studies": [
-            "Management of Civil Challenges",
-            "Policy, Knowledge and Conflict",
-            "European Union Governance and Politics"
+        "related_studies": [
+            "Management of Civil Challenges (Master's specialisation)",
+            "Policy, Knowledge and Conflict (Master's specialisation)",
+            "European Union Governance and Politics (Master's specialisation)"
         ],
         "faculty": [
             "Nijmegen School of Management"
@@ -1172,8 +1538,8 @@
     },
     {
         "study": "Great ideas and their history",
-        "related studies": [
-            "Continental Philosophy: Phenomenology, Hermeneutics and Psychoanalysis"
+        "related_studies": [
+            "Continental Philosophy: Phenomenology, Hermeneutics and Psychoanalysis (Master's specialisation)"
         ],
         "faculty": [
             "Faculty of Philosophy, Theology and Religious Studies"
@@ -1182,12 +1548,12 @@
     },
     {
         "study": "Greek and Latin Language and Literature",
-        "related studies": [
-            "Roman Archeology",
-            "The Book Industry",
-            "Literature and Society",
-            "Literary Studies",
-            "Two-year Educational Master's Classics"
+        "related_studies": [
+            "Roman Archeology (Master's specialisation)",
+            "The Book Industry (Master's specialisation)",
+            "Literature and Society (Master's specialisation)",
+            "Literary Studies (Master's)",
+            "Two-year Educational Master's Classics (Master's specialisation)"
         ],
         "faculty": [
             "Faculty of Arts"
@@ -1197,13 +1563,13 @@
     },
     {
         "study": "Healthcare Psychology",
-        "related studies": [
-            "Behaviour Change",
-            "Work, Organisation and Health",
-            "Behavioural Science (research)",
-            "Cognitive Neuroscience (research)",
-            "Intersectional Gender Studies",
-            "Pedagogical Sciences"
+        "related_studies": [
+            "Behaviour Change (Master's specialisation)",
+            "Work, Organisation and Health (Master's specialisation)",
+            "Behavioural Science (research) (Research Master's)",
+            "Cognitive Neuroscience (research) (Research Master's)",
+            "Intersectional Gender Studies (Master's)",
+            "Pedagogical Sciences (Master's)"
         ],
         "faculty": [
             "Faculty of Social Sciences"
@@ -1212,11 +1578,11 @@
     },
     {
         "study": "Historical Studies",
-        "related studies": [
-            "Ancient and Medieval Mediterranean Worlds",
-            "History of Church and Theology",
-            "Philosophy of History",
-            "Modern and Contemporary History"
+        "related_studies": [
+            "Ancient and Medieval Mediterranean Worlds (Master's specialisation)",
+            "History of Church and Theology (Master's specialisation)",
+            "Philosophy of History (Master's specialisation)",
+            "Modern and Contemporary History (Master's specialisation)"
         ],
         "faculty": [
             "Faculty of Arts"
@@ -1226,10 +1592,10 @@
     },
     {
         "study": "History",
-        "related studies": [
-            "Classics",
-            "Art History",
-            "Political Science"
+        "related_studies": [
+            "Classics (Bachelor's)",
+            "Art History (Bachelor's)",
+            "Political Science (Bachelor's)"
         ],
         "faculty": [
             "Faculty of Arts"
@@ -1239,10 +1605,10 @@
     },
     {
         "study": "History of Church and Theology",
-        "related studies": [
-            "Theology 1 yr",
-            "Philosophy of Religion",
-            "Religious Studies"
+        "related_studies": [
+            "Theology 1 yr (Master's specialisation)",
+            "Philosophy of Religion (Master's specialisation)",
+            "Religious Studies (Master's specialisation)"
         ],
         "faculty": [
             "Faculty of Philosophy, Theology and Religious Studies"
@@ -1251,9 +1617,9 @@
     },
     {
         "study": "History of Philosophy and Science",
-        "related studies": [
-            "Philosophy of History",
-            "Great ideas and their history"
+        "related_studies": [
+            "Philosophy of History (Master's specialisation)",
+            "Great ideas and their history (Master's specialisation)"
         ],
         "faculty": [
             "Faculty of Philosophy, Theology and Religious Studies"
@@ -1262,10 +1628,10 @@
     },
     {
         "study": "Human Biology",
-        "related studies": [
-            "Medical Epigenomics",
-            "Neurobiology",
-            "Medicinal Chemistry"
+        "related_studies": [
+            "Medical Epigenomics (Master's specialisation)",
+            "Neurobiology (Master's specialisation)",
+            "Medicinal Chemistry (Master's specialisation)"
         ],
         "faculty": [
             "Faculty of Science"
@@ -1275,11 +1641,11 @@
     },
     {
         "study": "Human Neuroscience",
-        "related studies": [
-            "Biology",
-            "Psychology",
-            "Artificial Intelligence",
-            "Biomedical Sciences"
+        "related_studies": [
+            "Biology (Bachelor's)",
+            "Psychology (Bachelor's)",
+            "Artificial Intelligence (Bachelor's)",
+            "Biomedical Sciences (Bachelor's)"
         ],
         "faculty": [
             "Faculty of Social Sciences"
@@ -1288,10 +1654,10 @@
     },
     {
         "study": "Human Rights and Migration",
-        "related studies": [
-            "International and European Law Advanced",
-            "European Law and Global Affairs",
-            "Business Law"
+        "related_studies": [
+            "International and European Law Advanced (Master's specialisation)",
+            "European Law and Global Affairs (Master's specialisation)",
+            "Business Law (Master's specialisation)"
         ],
         "faculty": [
             "Faculty of Law"
@@ -1301,10 +1667,10 @@
     },
     {
         "study": "Information Sciences",
-        "related studies": [
-            "Cyber Security",
-            "Intelligent Technology",
-            "Data Science"
+        "related_studies": [
+            "Cyber Security (Master's specialisation)",
+            "Intelligent Technology (Master's specialisation | Joint programme optional)",
+            "Data Science (Master's specialisation)"
         ],
         "faculty": [
             "Faculty of Science"
@@ -1314,17 +1680,17 @@
     },
     {
         "study": "Innovation and Entrepreneurship",
-        "related studies": [
-            "Business Analysis and Modelling",
-            "European Master in System Dynamics",
-            "Gender Equality, Diversity and Inclusion in Management",
-            "International Business",
-            "Marketing",
-            "Organisational Design & Development",
-            "Responsible Digitalisation",
-            "Science for Sustainability",
-            "Strategic Human Resources Leadership",
-            "Strategic Management"
+        "related_studies": [
+            "Business Analysis and Modelling (Master's specialisation)",
+            "European Master in System Dynamics (Master's specialisation | Joint programme)",
+            "Gender Equality, Diversity and Inclusion in Management (Master's specialisation)",
+            "International Business (Master's specialisation | Joint programme optional)",
+            "Marketing (Master's specialisation)",
+            "Organisational Design & Development (Master's specialisation)",
+            "Responsible Digitalisation (Master's specialisation)",
+            "Science for Sustainability (Master's)",
+            "Strategic Human Resources Leadership (Master's specialisation | Joint programme optional)",
+            "Strategic Management (Master's specialisation)"
         ],
         "faculty": [
             "Nijmegen School of Management"
@@ -1334,10 +1700,10 @@
     },
     {
         "study": "Intelligent Technology",
-        "related studies": [
-            "Cognitive Computing",
-            "Cognitive Neuroscience (research)",
-            "Data Science"
+        "related_studies": [
+            "Cognitive Computing (Master's specialisation)",
+            "Cognitive Neuroscience (research) (Research Master's)",
+            "Data Science (Master's specialisation)"
         ],
         "faculty": [
             "Faculty of Social Sciences"
@@ -1347,17 +1713,17 @@
     },
     {
         "study": "International Business",
-        "related studies": [
-            "Business Analysis and Modelling",
-            "European Master in System Dynamics",
-            "Gender Equality, Diversity and Inclusion in Management",
-            "Innovation and Entrepreneurship",
-            "Marketing",
-            "Organisational Design & Development",
-            "Responsible Digitalisation",
-            "Science for Sustainability",
-            "Strategic Human Resources Leadership",
-            "Strategic Management"
+        "related_studies": [
+            "Business Analysis and Modelling (Master's specialisation)",
+            "European Master in System Dynamics (Master's specialisation | Joint programme)",
+            "Gender Equality, Diversity and Inclusion in Management (Master's specialisation)",
+            "Innovation and Entrepreneurship (Master's specialisation)",
+            "Marketing (Master's specialisation)",
+            "Organisational Design & Development (Master's specialisation)",
+            "Responsible Digitalisation (Master's specialisation)",
+            "Science for Sustainability (Master's)",
+            "Strategic Human Resources Leadership (Master's specialisation | Joint programme optional)",
+            "Strategic Management (Master's specialisation)"
         ],
         "faculty": [
             "Nijmegen School of Management"
@@ -1367,26 +1733,55 @@
     },
     {
         "study": "International Business Administration",
-        "related studies": [
-            "Business Administration",
-            "Economics and Business Economics",
-            "Economics and Business Economics",
-            "International Business Communication",
-            "Law and Management",
-            "Law and Economics"
+        "related_studies": [
+            "Business Administration (Bachelor's)",
+            "Economics and Business Economics (Bachelor's)",
+            "Economics and Business Economics (Bachelor's)",
+            "International Business Communication (Bachelor's)",
+            "Law and Management (Bachelor's)",
+            "Law and Economics (Bachelor's)"
         ],
         "faculty": [
             "Nijmegen School of Management"
         ],
-        "student_count": "110",
+        "student_count": "452",
+        "study_type": "Bachelor's"
+    },
+    {
+        "study": "International Business Administration",
+        "related_studies": [
+            "Business Administration (Bachelor's)",
+            "Economics and Business Economics (Bachelor's)",
+            "Economics and Business Economics (Bachelor's)",
+            "International Business Communication (Bachelor's)",
+            "Law and Management (Bachelor's)",
+            "Law and Economics (Bachelor's)"
+        ],
+        "faculty": [
+            "Nijmegen School of Management"
+        ],
+        "student_count": "452",
         "study_type": "Bachelor's"
     },
     {
         "study": "International Business Communication",
-        "related studies": [
-            "Communication and Information Studies",
-            "International Business Administration",
-            "English Language and Culture"
+        "related_studies": [
+            "Communication and Information Studies (Bachelor's)",
+            "International Business Administration (Bachelor's)",
+            "English Language and Culture (Bachelor's)"
+        ],
+        "faculty": [
+            "Faculty of Arts"
+        ],
+        "student_count": "55",
+        "study_type": "Bachelor's"
+    },
+    {
+        "study": "International Business Communication",
+        "related_studies": [
+            "Communication and Information Studies (Bachelor's)",
+            "International Business Administration (Bachelor's)",
+            "English Language and Culture (Bachelor's)"
         ],
         "faculty": [
             "Faculty of Arts"
@@ -1396,12 +1791,12 @@
     },
     {
         "study": "International Economics & Development",
-        "related studies": [
-            "Accounting and Control",
-            "Corporate Finance and Control",
-            "Economics, Behaviour and Policy",
-            "Financial Economics",
-            "International Political Economy"
+        "related_studies": [
+            "Accounting and Control (Master's specialisation)",
+            "Corporate Finance and Control (Master's specialisation)",
+            "Economics, Behaviour and Policy (Master's specialisation)",
+            "Financial Economics (Master's specialisation)",
+            "International Political Economy (Master's specialisation | Joint programme optional)"
         ],
         "faculty": [
             "Nijmegen School of Management"
@@ -1410,14 +1805,22 @@
         "study_type": "Master's specialisation"
     },
     {
+        "study": "International Law and Global Security, Peace and Development (joint degree)",
+        "related_studies": [],
+        "faculty": [
+            "Faculty of Law"
+        ],
+        "study_type": "Master's | Joint programme"
+    },
+    {
         "study": "International Political Economy",
-        "related studies": [
-            "Accounting and Control",
-            "Corporate Finance and Control",
-            "Economics, Behaviour and Policy",
-            "Financial Economics",
-            "International Economics & Development",
-            "Global Political Economy"
+        "related_studies": [
+            "Accounting and Control (Master's specialisation)",
+            "Corporate Finance and Control (Master's specialisation)",
+            "Economics, Behaviour and Policy (Master's specialisation)",
+            "Financial Economics (Master's specialisation)",
+            "International Economics & Development (Master's specialisation)",
+            "Global Political Economy (Master's specialisation | Joint programme optional)"
         ],
         "faculty": [
             "Nijmegen School of Management"
@@ -1427,13 +1830,13 @@
     },
     {
         "study": "International Relations",
-        "related studies": [
-            "Comparative Politics: Democracies and Autocracies",
-            "Conflict, Power and Politics",
-            "European Union Politics and Governance",
-            "Gender Equality, Diversity and Inclusion in Politics",
-            "Global Political Economy",
-            "Political Theory"
+        "related_studies": [
+            "Comparative Politics: Democracies and Autocracies (Master's specialisation | Joint programme optional)",
+            "Conflict, Power and Politics (Master's specialisation | Joint programme optional)",
+            "European Union Politics and Governance (Master's specialisation | Joint programme optional)",
+            "Gender Equality, Diversity and Inclusion in Politics (Master's specialisation | Joint programme optional)",
+            "Global Political Economy (Master's specialisation | Joint programme optional)",
+            "Political Theory (Master's specialisation | Joint programme optional)"
         ],
         "faculty": [
             "Nijmegen School of Management"
@@ -1443,10 +1846,10 @@
     },
     {
         "study": "International and European Law Advanced",
-        "related studies": [
-            "Business Law",
-            "Human Rights and Migration",
-            "European Law and Global Affairs"
+        "related_studies": [
+            "Business Law (Master's specialisation)",
+            "Human Rights and Migration (Master's specialisation)",
+            "European Law and Global Affairs (Master's specialisation)"
         ],
         "faculty": [
             "Faculty of Law"
@@ -1456,12 +1859,12 @@
     },
     {
         "study": "Intersectional Gender Studies",
-        "related studies": [
-            "Social and Cultural Science: Comparative Research on Societies (research)",
-            "Anthropology and Development Studies",
-            "Sociology",
-            "Gender Equality, Diversity and Inclusion in Politics",
-            "Gender Equality, Diversity and Inclusion in Management"
+        "related_studies": [
+            "Social and Cultural Science: Comparative Research on Societies (research) (Research Master's)",
+            "Anthropology and Development Studies (Master's | Joint programme optional)",
+            "Sociology (Master's)",
+            "Gender Equality, Diversity and Inclusion in Politics (Master's specialisation | Joint programme optional)",
+            "Gender Equality, Diversity and Inclusion in Management (Master's specialisation)"
         ],
         "faculty": [
             "Faculty of Social Sciences"
@@ -1470,10 +1873,10 @@
     },
     {
         "study": "Islam, Politics and Society",
-        "related studies": [
-            "Pre-Master's Theology & Religious Studies: Islam, Politics and Society",
-            "Religion, Politics and Society",
-            "Philosophy, Politics and Society"
+        "related_studies": [
+            "Pre-Master's Theology & Religious Studies: Islam, Politics and Society (Pre-Master's)",
+            "Religion, Politics and Society (Bachelor's)",
+            "Philosophy, Politics and Society (Bachelor's)"
         ],
         "faculty": [
             "Faculty of Philosophy, Theology and Religious Studies"
@@ -1482,10 +1885,10 @@
     },
     {
         "study": "Islam, Politics and Society",
-        "related studies": [
-            "Religion and Policy",
-            "Religious Studies",
-            "Philosophy of Religious Sciences"
+        "related_studies": [
+            "Religion and Policy (Master's specialisation)",
+            "Religious Studies (Master's specialisation)",
+            "Philosophy of Religious Sciences (Master's specialisation)"
         ],
         "faculty": [
             "Faculty of Philosophy, Theology and Religious Studies"
@@ -1494,10 +1897,10 @@
     },
     {
         "study": "Language Variation and Multilingualism",
-        "related studies": [
-            "Language and Speech Pathology",
-            "Linguistics and Communication Sciences (research)",
-            "Dutch as a Second Language: Teacher and Expert"
+        "related_studies": [
+            "Language and Speech Pathology (Master's specialisation)",
+            "Linguistics and Communication Sciences (research) (Research Master's)",
+            "Dutch as a Second Language: Teacher and Expert (Master's specialisation)"
         ],
         "faculty": [
             "Faculty of Arts"
@@ -1507,11 +1910,11 @@
     },
     {
         "study": "Language and Communication Technology",
-        "related studies": [
-            "Language and Speech Pathology",
-            "Intelligent Technology",
-            "Communication and Persuasion",
-            "Linguistics and Communication Sciences (research)"
+        "related_studies": [
+            "Language and Speech Pathology (Master's specialisation)",
+            "Intelligent Technology (Master's specialisation | Joint programme optional)",
+            "Communication and Persuasion (Master's specialisation)",
+            "Linguistics and Communication Sciences (research) (Research Master's)"
         ],
         "faculty": [
             "Faculty of Arts"
@@ -1520,10 +1923,10 @@
     },
     {
         "study": "Language and Speech Pathology",
-        "related studies": [
-            "Language Variation and Multilingualism",
-            "Dutch as a Second Language: Teacher and Expert",
-            "Two-year Educational Master's Dutch"
+        "related_studies": [
+            "Language Variation and Multilingualism (Master's specialisation)",
+            "Dutch as a Second Language: Teacher and Expert (Master's specialisation)",
+            "Two-year Educational Master's Dutch (Master's specialisation)"
         ],
         "faculty": [
             "Faculty of Arts"
@@ -1533,38 +1936,64 @@
     },
     {
         "study": "Law",
-        "related studies": [
-            "Notarial Law",
-            "European Law School",
-            "Recht en Management",
-            "Law and Economics"
+        "related_studies": [
+            "Notarial Law (Bachelor's)",
+            "European Law School (Bachelor's)",
+            "Law and Management (Bachelor's)",
+            "Law and Economics (Bachelor's)"
         ],
         "faculty": [
             "Faculty of Law"
         ],
-        "student_count": "370",
+        "student_count": "395 28",
+        "study_type": "Bachelor's"
+    },
+    {
+        "study": "Law and Economics",
+        "related_studies": [
+            "Law and Management (Bachelor's)",
+            "Law (Bachelor's)",
+            "Notarial Law (Bachelor's)",
+            "European Law School (Bachelor's)"
+        ],
+        "faculty": [
+            "Faculty of Law"
+        ],
+        "study_type": "Bachelor's"
+    },
+    {
+        "study": "Law and Management",
+        "related_studies": [
+            "Law (Bachelor's)",
+            "European Law School (Bachelor's)",
+            "Notarial Law (Bachelor's)",
+            "Law and Economics (Bachelor's)"
+        ],
+        "faculty": [
+            "Faculty of Law"
+        ],
         "study_type": "Bachelor's"
     },
     {
         "study": "Linguistics",
-        "related studies": [
-            "Dutch Language and Culture",
-            "Communication and Information Studies",
-            "Artificial Intelligence"
+        "related_studies": [
+            "Dutch Language and Culture (Bachelor's)",
+            "Communication and Information Studies (Bachelor's)",
+            "Artificial Intelligence (Bachelor's)"
         ],
         "faculty": [
             "Faculty of Arts"
         ],
-        "student_count": "30",
+        "student_count": "27",
         "study_type": "Bachelor's"
     },
     {
         "study": "Linguistics and Communication Sciences (research)",
-        "related studies": [
-            "Language Variation and Multilingualism",
-            "Global Communication and Diversity",
-            "Cognitive Neuroscience (research)",
-            "Communication and Persuasion"
+        "related_studies": [
+            "Language Variation and Multilingualism (Master's specialisation)",
+            "Global Communication and Diversity (Master's specialisation)",
+            "Cognitive Neuroscience (research) (Research Master's)",
+            "Communication and Persuasion (Master's specialisation)"
         ],
         "faculty": [
             "Faculty of Arts"
@@ -1574,11 +2003,11 @@
     },
     {
         "study": "Literary Studies",
-        "related studies": [
-            "Literature and Society",
-            "Cultural Policy and the Business of Art",
-            "Greek and Latin Language and Literature",
-            "Dutch-German-Studies (joint degree)"
+        "related_studies": [
+            "Literature and Society (Master's specialisation)",
+            "Cultural Policy and the Business of Art (Master's specialisation)",
+            "Greek and Latin Language and Literature (Master's specialisation)",
+            "Dutch-German-Studies (joint degree) (Master's | Joint programme)"
         ],
         "faculty": [
             "Faculty of Arts"
@@ -1588,11 +2017,11 @@
     },
     {
         "study": "Literature and Society",
-        "related studies": [
-            "The Book Industry",
-            "Literary Studies",
-            "Dutch-German-Studies (joint degree)",
-            "Two-year Educational Master's Dutch"
+        "related_studies": [
+            "The Book Industry (Master's specialisation)",
+            "Literary Studies (Master's)",
+            "Dutch-German-Studies (joint degree) (Master's | Joint programme)",
+            "Two-year Educational Master's Dutch (Master's specialisation)"
         ],
         "faculty": [
             "Faculty of Arts"
@@ -1602,11 +2031,11 @@
     },
     {
         "study": "Local Environmental Change and Sustainable Cities",
-        "related studies": [
-            "Sustainable Economies and Corporations",
-            "Global Environment and Sustainability",
-            "Environmental Justice and Governance",
-            "Science for Sustainability"
+        "related_studies": [
+            "Sustainable Economies and Corporations (Master's specialisation)",
+            "Global Environment and Sustainability (Master's specialisation)",
+            "Environmental Justice and Governance (Master's specialisation)",
+            "Science for Sustainability (Master's)"
         ],
         "faculty": [
             "Nijmegen School of Management"
@@ -1616,10 +2045,10 @@
     },
     {
         "study": "Management of Civil Challenges",
-        "related studies": [
-            "Policy, Knowledge and Conflict",
-            "Governance of Safety and Security",
-            "European Union Governance and Politics"
+        "related_studies": [
+            "Policy, Knowledge and Conflict (Master's specialisation)",
+            "Governance of Safety and Security (Master's specialisation)",
+            "European Union Governance and Politics (Master's specialisation)"
         ],
         "faculty": [
             "Nijmegen School of Management"
@@ -1629,17 +2058,17 @@
     },
     {
         "study": "Marketing",
-        "related studies": [
-            "Business Analysis and Modelling",
-            "European Master in System Dynamics",
-            "Gender Equality, Diversity and Inclusion in Management",
-            "Innovation and Entrepreneurship",
-            "International Business",
-            "Organisational Design & Development",
-            "Responsible Digitalisation",
-            "Science for Sustainability",
-            "Strategic Human Resources Leadership",
-            "Strategic Management"
+        "related_studies": [
+            "Business Analysis and Modelling (Master's specialisation)",
+            "European Master in System Dynamics (Master's specialisation | Joint programme)",
+            "Gender Equality, Diversity and Inclusion in Management (Master's specialisation)",
+            "Innovation and Entrepreneurship (Master's specialisation)",
+            "International Business (Master's specialisation | Joint programme optional)",
+            "Organisational Design & Development (Master's specialisation)",
+            "Responsible Digitalisation (Master's specialisation)",
+            "Science for Sustainability (Master's)",
+            "Strategic Human Resources Leadership (Master's specialisation | Joint programme optional)",
+            "Strategic Management (Master's specialisation)"
         ],
         "faculty": [
             "Nijmegen School of Management"
@@ -1649,8 +2078,8 @@
     },
     {
         "study": "Master in teaching Biology",
-        "related studies": [
-            "Educatieve Minor of Module Biologie"
+        "related_studies": [
+            "Education Module Biology (Educatieve minor/ module)"
         ],
         "faculty": [
             "Radboud Teachers Academy"
@@ -1659,10 +2088,10 @@
     },
     {
         "study": "Mathematical Foundations of Computer Science",
-        "related studies": [
-            "Mathematics",
-            "Data Science",
-            "Information Sciences"
+        "related_studies": [
+            "Mathematics (Master's specialisation)",
+            "Data Science (Master's specialisation)",
+            "Information Sciences (Master's)"
         ],
         "faculty": [
             "Faculty of Science"
@@ -1672,38 +2101,94 @@
     },
     {
         "study": "Mathematics",
-        "related studies": [
-            "Physics and Astronomy",
-            "Computing Science",
-            "Artificial Intelligence",
-            "Medicine",
-            "Science"
+        "related_studies": [
+            "Physics and Astronomy (Bachelor's)",
+            "Computing Science (Bachelor's)",
+            "Artificial Intelligence (Bachelor's)",
+            "Medicine (Bachelor's)",
+            "Science (Bachelor's)"
         ],
         "faculty": [
             "Faculty of Science"
         ],
-        "student_count": "78",
+        "student_count": "77",
         "study_type": "Bachelor's"
     },
     {
         "study": "Mathematics",
-        "related studies": [
-            "Mathematical Foundations of Computer Science",
-            "Particle and Astrophysics",
-            "Quantum Matter"
+        "related_studies": [
+            "Physics and Astronomy (Bachelor's)",
+            "Computing Science (Bachelor's)",
+            "Artificial Intelligence (Bachelor's)",
+            "Medicine (Bachelor's)",
+            "Science (Bachelor's)"
         ],
         "faculty": [
             "Faculty of Science"
         ],
-        "student_count": "74",
+        "student_count": "77",
+        "study_type": "Bachelor's"
+    },
+    {
+        "study": "Mathematics",
+        "related_studies": [
+            "Physics and Astronomy (Bachelor's)",
+            "Computing Science (Bachelor's)",
+            "Artificial Intelligence (Bachelor's)",
+            "Medicine (Bachelor's)",
+            "Science (Bachelor's)"
+        ],
+        "faculty": [
+            "Faculty of Science"
+        ],
+        "student_count": "77",
+        "study_type": "Bachelor's"
+    },
+    {
+        "study": "Mathematics",
+        "related_studies": [
+            "Mathematical Foundations of Computer Science (Master's specialisation)",
+            "Particle and Astrophysics (Master's specialisation)",
+            "Quantum Matter (Master's specialisation)"
+        ],
+        "faculty": [
+            "Faculty of Science"
+        ],
+        "student_count": "77",
+        "study_type": "Master's specialisation"
+    },
+    {
+        "study": "Mathematics",
+        "related_studies": [
+            "Mathematical Foundations of Computer Science (Master's specialisation)",
+            "Particle and Astrophysics (Master's specialisation)",
+            "Quantum Matter (Master's specialisation)"
+        ],
+        "faculty": [
+            "Faculty of Science"
+        ],
+        "student_count": "77",
+        "study_type": "Master's specialisation"
+    },
+    {
+        "study": "Mathematics",
+        "related_studies": [
+            "Mathematical Foundations of Computer Science (Master's specialisation)",
+            "Particle and Astrophysics (Master's specialisation)",
+            "Quantum Matter (Master's specialisation)"
+        ],
+        "faculty": [
+            "Faculty of Science"
+        ],
+        "student_count": "77",
         "study_type": "Master's specialisation"
     },
     {
         "study": "Medical Epigenomics",
-        "related studies": [
-            "Neurobiology",
-            "Biomedical Sciences",
-            "Medicinal Chemistry"
+        "related_studies": [
+            "Neurobiology (Master's specialisation)",
+            "Biomedical Sciences (Master's)",
+            "Medicinal Chemistry (Master's specialisation)"
         ],
         "faculty": [
             "Faculty of Science"
@@ -1713,10 +2198,10 @@
     },
     {
         "study": "Medicinal Chemistry",
-        "related studies": [
-            "Chemistry of Life",
-            "Medical Epigenomics",
-            "Molecular Chemistry"
+        "related_studies": [
+            "Chemistry of Life (Master's specialisation)",
+            "Medical Epigenomics (Master's specialisation)",
+            "Molecular Chemistry (Master's specialisation)"
         ],
         "faculty": [
             "Faculty of Science"
@@ -1726,33 +2211,35 @@
     },
     {
         "study": "Medicine",
-        "related studies": [
-            "Dentistry",
-            "Biomedical Sciences",
-            "Biology"
+        "related_studies": [
+            "Dentistry (Bachelor's)",
+            "Biomedical Sciences (Bachelor's)",
+            "Biology (Bachelor's)"
         ],
         "faculty": [
             "Faculty of Medical Sciences"
         ],
+        "student_count": "326",
         "study_type": "Bachelor's"
     },
     {
         "study": "Medicine",
-        "related studies": [
-            "Biomedical Sciences",
-            "Dentistry",
-            "Molecular Mechanisms of Disease (research)"
+        "related_studies": [
+            "Biomedical Sciences (Master's)",
+            "Dentistry (Master's)",
+            "Molecular Mechanisms of Disease (research) (Research Master's)"
         ],
         "faculty": [
             "Faculty of Medical Sciences"
         ],
+        "student_count": "326",
         "study_type": "Master's"
     },
     {
         "study": "Metaphysics and Philosophical Anthropology",
-        "related studies": [
-            "Continental Philosophy: Phenomenology, Hermeneutics and Psychoanalysis",
-            "Philosophy of Religion"
+        "related_studies": [
+            "Continental Philosophy: Phenomenology, Hermeneutics and Psychoanalysis (Master's specialisation)",
+            "Philosophy of Religion (Master's specialisation)"
         ],
         "faculty": [
             "Faculty of Philosophy, Theology and Religious Studies"
@@ -1761,10 +2248,10 @@
     },
     {
         "study": "Microbiology",
-        "related studies": [
-            "Adaptive Organisms",
-            "Conservation and Restoration Ecology",
-            "Environment & Sustainability"
+        "related_studies": [
+            "Adaptive Organisms (Master's specialisation)",
+            "Conservation and Restoration Ecology (Master's specialisation)",
+            "Environment & Sustainability (Master's specialisation)"
         ],
         "faculty": [
             "Faculty of Science"
@@ -1774,12 +2261,12 @@
     },
     {
         "study": "Modern and Contemporary History",
-        "related studies": [
-            "Ancient and Medieval Mediterranean Worlds",
-            "Politics and Parliament",
-            "Historical Studies",
-            "History of Church and Theology",
-            "Two-year Educational Master's History"
+        "related_studies": [
+            "Ancient and Medieval Mediterranean Worlds (Master's specialisation)",
+            "Politics and Parliament (Master's specialisation)",
+            "Historical Studies (Master's)",
+            "History of Church and Theology (Master's specialisation)",
+            "Two-year Educational Master's History (Master's specialisation)"
         ],
         "faculty": [
             "Faculty of Arts"
@@ -1789,10 +2276,10 @@
     },
     {
         "study": "Molecular Chemistry",
-        "related studies": [
-            "Physical Chemistry",
-            "Chemistry of Life",
-            "Medicinal Chemistry"
+        "related_studies": [
+            "Physical Chemistry (Master's specialisation)",
+            "Chemistry of Life (Master's specialisation)",
+            "Medicinal Chemistry (Master's specialisation)"
         ],
         "faculty": [
             "Faculty of Science"
@@ -1802,23 +2289,53 @@
     },
     {
         "study": "Molecular Life Sciences",
-        "related studies": [
-            "Biomedical Sciences",
-            "Medicine",
-            "Biology",
-            "Chemistry",
-            "Science"
+        "related_studies": [
+            "Biomedical Sciences (Bachelor's)",
+            "Medicine (Bachelor's)",
+            "Biology (Bachelor's)",
+            "Chemistry (Bachelor's)",
+            "Science (Bachelor's)"
         ],
         "faculty": [
             "Faculty of Science"
         ],
-        "student_count": "76",
+        "student_count": "93",
+        "study_type": "Bachelor's"
+    },
+    {
+        "study": "Molecular Life Sciences",
+        "related_studies": [
+            "Biomedical Sciences (Bachelor's)",
+            "Medicine (Bachelor's)",
+            "Biology (Bachelor's)",
+            "Chemistry (Bachelor's)",
+            "Science (Bachelor's)"
+        ],
+        "faculty": [
+            "Faculty of Science"
+        ],
+        "student_count": "93",
+        "study_type": "Bachelor's"
+    },
+    {
+        "study": "Molecular Life Sciences",
+        "related_studies": [
+            "Biomedical Sciences (Bachelor's)",
+            "Medicine (Bachelor's)",
+            "Biology (Bachelor's)",
+            "Chemistry (Bachelor's)",
+            "Science (Bachelor's)"
+        ],
+        "faculty": [
+            "Faculty of Science"
+        ],
+        "student_count": "93",
         "study_type": "Bachelor's"
     },
     {
         "study": "Molecular Mechanisms of Disease (research)",
-        "related studies": [
-            "Biomedical Sciences"
+        "related_studies": [
+            "Biomedical Sciences (Master's)"
         ],
         "faculty": [
             "Faculty of Medical Sciences"
@@ -1827,10 +2344,10 @@
     },
     {
         "study": "Neurobiology",
-        "related studies": [
-            "Neurophysics",
-            "Human Biology",
-            "Cognitive Neuroscience (research)"
+        "related_studies": [
+            "Neurophysics (Master's specialisation)",
+            "Human Biology (Master's specialisation)",
+            "Cognitive Neuroscience (research) (Research Master's)"
         ],
         "faculty": [
             "Faculty of Science"
@@ -1840,10 +2357,10 @@
     },
     {
         "study": "Neurophysics",
-        "related studies": [
-            "Neurobiology",
-            "Quantum Matter",
-            "Cognitive Neuroscience (research)"
+        "related_studies": [
+            "Neurobiology (Master's specialisation)",
+            "Quantum Matter (Master's specialisation)",
+            "Cognitive Neuroscience (research) (Research Master's)"
         ],
         "faculty": [
             "Faculty of Science"
@@ -1853,35 +2370,62 @@
     },
     {
         "study": "Notarial Law",
-        "related studies": [
-            "Law",
-            "European Law School",
-            "Recht en Management",
-            "Law and Economics"
+        "related_studies": [
+            "Law (Bachelor's)",
+            "European Law School (Bachelor's)",
+            "Law and Management (Bachelor's)",
+            "Law and Economics (Bachelor's)"
         ],
         "faculty": [
             "Faculty of Law"
         ],
-        "student_count": "92",
+        "student_count": "6 53",
         "study_type": "Bachelor's"
     },
     {
         "study": "Notarial Law",
-        "related studies": [
-            "Tax Law",
-            "Civil Law",
-            "Company Law"
+        "related_studies": [
+            "Law (Bachelor's)",
+            "European Law School (Bachelor's)",
+            "Law and Management (Bachelor's)",
+            "Law and Economics (Bachelor's)"
         ],
         "faculty": [
             "Faculty of Law"
         ],
-        "student_count": "145",
+        "student_count": "125 9",
+        "study_type": "Bachelor's"
+    },
+    {
+        "study": "Notarial Law",
+        "related_studies": [
+            "Tax Law (Master's)",
+            "Civil Law (Master's specialisation)",
+            "Company Law (Master's specialisation)"
+        ],
+        "faculty": [
+            "Faculty of Law"
+        ],
+        "student_count": "6 53",
+        "study_type": "Master's"
+    },
+    {
+        "study": "Notarial Law",
+        "related_studies": [
+            "Tax Law (Master's)",
+            "Civil Law (Master's specialisation)",
+            "Company Law (Master's specialisation)"
+        ],
+        "faculty": [
+            "Faculty of Law"
+        ],
+        "student_count": "125 9",
         "study_type": "Master's"
     },
     {
         "study": "One-year Educational Master's Art History and Cultural and Artistic Education",
-        "related studies": [
-            "Two-year Educational Master's Art History and Cultural and Artistic Education"
+        "related_studies": [
+            "Two-year Educational Master's Art History and Cultural and Artistic Education (Master's specialisation)"
         ],
         "faculty": [
             "Radboud Teachers Academy"
@@ -1890,8 +2434,8 @@
     },
     {
         "study": "One-year Educational Master's Business Economics",
-        "related studies": [
-            "Economics and Business Economics"
+        "related_studies": [
+            "Economics and Business Economics (Bachelor's)"
         ],
         "faculty": [
             "Radboud Teachers Academy"
@@ -1900,8 +2444,8 @@
     },
     {
         "study": "One-year Educational Master's Chemistry",
-        "related studies": [
-            "Educatieve Minor of Module Scheikunde"
+        "related_studies": [
+            "Education Module Chemistry (Educatieve minor/ module)"
         ],
         "faculty": [
             "Radboud Teachers Academy"
@@ -1910,10 +2454,10 @@
     },
     {
         "study": "One-year Educational Master's Dutch",
-        "related studies": [
-            "Two-year Educational Pre-Master's Dutch",
-            "Two-year Educational Master's Dutch",
-            "Dutch Language and Culture"
+        "related_studies": [
+            "Two-year Educational Pre-Master's Dutch (Pre-Master's)",
+            "Two-year Educational Master's Dutch (Master's specialisation)",
+            "Dutch Language and Culture (Bachelor's)"
         ],
         "faculty": [
             "Radboud Teachers Academy"
@@ -1922,8 +2466,8 @@
     },
     {
         "study": "One-year Educational Master's Economics",
-        "related studies": [
-            "Economics and Business Economics"
+        "related_studies": [
+            "Economics and Business Economics (Bachelor's)"
         ],
         "faculty": [
             "Radboud Teachers Academy"
@@ -1932,10 +2476,10 @@
     },
     {
         "study": "One-year Educational Master's English",
-        "related studies": [
-            "Two-year Educational Pre-Master's English",
-            "Two-year Educational Master's English",
-            "Educatieve Minor of Module Engels"
+        "related_studies": [
+            "Two-year Educational Pre-Master's English (Pre-Master's)",
+            "Two-year Educational Master's English (Master's specialisation)",
+            "Education Module English (Educatieve minor/ module)"
         ],
         "faculty": [
             "Radboud Teachers Academy"
@@ -1944,10 +2488,10 @@
     },
     {
         "study": "One-year Educational Master's French",
-        "related studies": [
-            "Two-year Educational Pre-Master's French",
-            "Two-year Educational Master's French",
-            "Educatieve Minor of Module Frans"
+        "related_studies": [
+            "Two-year Educational Pre-Master's French (Pre-Master's)",
+            "Two-year Educational Master's French (Master's specialisation)",
+            "Education Module French (Educatieve minor/ module)"
         ],
         "faculty": [
             "Radboud Teachers Academy"
@@ -1956,9 +2500,9 @@
     },
     {
         "study": "One-year Educational Master's Geography",
-        "related studies": [
-            "Two-year Educational Master's Geography",
-            "Educatieve Minor of Module Aardrijkskunde"
+        "related_studies": [
+            "Two-year Educational Master's Geography (Master's specialisation)",
+            "Education Module Geography (Educatieve minor/ module)"
         ],
         "faculty": [
             "Radboud Teachers Academy"
@@ -1967,10 +2511,10 @@
     },
     {
         "study": "One-year Educational Master's German",
-        "related studies": [
-            "Two-year Educational Pre-Master's German",
-            "Two-year Educational Master's German",
-            "Educatieve Minor of Module Duits"
+        "related_studies": [
+            "Two-year Educational Pre-Master's German (Pre-Master's)",
+            "Two-year Educational Master's German (Master's specialisation)",
+            "Education Module German (Educatieve minor/ module)"
         ],
         "faculty": [
             "Radboud Teachers Academy"
@@ -1979,10 +2523,10 @@
     },
     {
         "study": "One-year Educational Master's Greek & Latin",
-        "related studies": [
-            "Two-year Educational Master's Classics",
-            "Greek and Latin Language and Literature",
-            "Educatieve Minor of Module Grieks en Latijn"
+        "related_studies": [
+            "Two-year Educational Master's Classics (Master's specialisation)",
+            "Greek and Latin Language and Literature (Master's specialisation)",
+            "Education Module Greek and Latin (Educatieve minor/ module)"
         ],
         "faculty": [
             "Radboud Teachers Academy"
@@ -1991,13 +2535,13 @@
     },
     {
         "study": "One-year Educational Master's History and Civics",
-        "related studies": [
-            "Two-year Educational Master's History",
-            "Educatieve Minor of Module Geschiedenis",
-            "Two-year Educational Pre-Master's History",
-            "Politics and Parliament",
-            "Modern and Contemporary History",
-            "Ancient and Medieval Mediterranean Worlds"
+        "related_studies": [
+            "Two-year Educational Master's History (Master's specialisation)",
+            "Education Module History (Educatieve minor/ module)",
+            "Two-year Educational Pre-Master's History (Pre-Master's)",
+            "Politics and Parliament (Master's specialisation)",
+            "Modern and Contemporary History (Master's specialisation)",
+            "Ancient and Medieval Mediterranean Worlds (Master's specialisation)"
         ],
         "faculty": [
             "Radboud Teachers Academy"
@@ -2006,8 +2550,8 @@
     },
     {
         "study": "One-year Educational Master's Mathematics",
-        "related studies": [
-            "Educatieve Minor of Module Wiskunde"
+        "related_studies": [
+            "Education Module Mathematics (Educatieve minor/ module)"
         ],
         "faculty": [
             "Radboud Teachers Academy"
@@ -2016,9 +2560,9 @@
     },
     {
         "study": "One-year Educational Master's Philosophy",
-        "related studies": [
-            "Two-year Educational Master's Philosophy",
-            "Pre-Master's Philosophy"
+        "related_studies": [
+            "Two-year Educational Master's Philosophy (Master's specialisation)",
+            "Pre-Master's Philosophy (Pre-Master's)"
         ],
         "faculty": [
             "Radboud Teachers Academy"
@@ -2027,8 +2571,8 @@
     },
     {
         "study": "One-year Educational Master's Physics",
-        "related studies": [
-            "Educatieve Minor of Module Natuurkunde"
+        "related_studies": [
+            "Education Module Physics (Educatieve minor/ module)"
         ],
         "faculty": [
             "Radboud Teachers Academy"
@@ -2037,11 +2581,11 @@
     },
     {
         "study": "One-year Educational Master's Religious Studies",
-        "related studies": [
-            "Two-year Educational Master's Religion",
-            "Philosophy of Religious Sciences",
-            "Pre-Master's Philosophy",
-            "Educatieve Minor of Module Godsdienst & levensbeschouwing"
+        "related_studies": [
+            "Two-year Educational Master's Religion (Master's specialisation)",
+            "Philosophy of Religious Sciences (Master's specialisation)",
+            "Pre-Master's Philosophy (Pre-Master's)",
+            "Education Module Religious Studies (Educatieve minor/ module)"
         ],
         "faculty": [
             "Radboud Teachers Academy"
@@ -2050,9 +2594,9 @@
     },
     {
         "study": "One-year Educational Master's Social Studies and Social Sciences",
-        "related studies": [
-            "Two-year Educational Pre-Master's Society Studies",
-            "Two-year Educational Master's Social Studies"
+        "related_studies": [
+            "Two-year Educational Pre-Master's Society Studies (Pre-Master's)",
+            "Two-year Educational Master's Social Studies (Master's)"
         ],
         "faculty": [
             "Radboud Teachers Academy"
@@ -2061,10 +2605,10 @@
     },
     {
         "study": "One-year Educational Master's Spanish",
-        "related studies": [
-            "Two-year Educational Pre-Master's Spanish",
-            "Educatieve Minor of Module Spaans",
-            "Two-year Educational Master's Spanish"
+        "related_studies": [
+            "Two-year Educational Pre-Master's Spanish (Pre-Master's)",
+            "Education Module Spanish (Educatieve minor/ module)",
+            "Two-year Educational Master's Spanish (Master's specialisation)"
         ],
         "faculty": [
             "Radboud Teachers Academy"
@@ -2073,17 +2617,17 @@
     },
     {
         "study": "Organisational Design & Development",
-        "related studies": [
-            "Business Analysis and Modelling",
-            "European Master in System Dynamics",
-            "Gender Equality, Diversity and Inclusion in Management",
-            "Innovation and Entrepreneurship",
-            "International Business",
-            "Marketing",
-            "Responsible Digitalisation",
-            "Science for Sustainability",
-            "Strategic Human Resources Leadership",
-            "Strategic Management"
+        "related_studies": [
+            "Business Analysis and Modelling (Master's specialisation)",
+            "European Master in System Dynamics (Master's specialisation | Joint programme)",
+            "Gender Equality, Diversity and Inclusion in Management (Master's specialisation)",
+            "Innovation and Entrepreneurship (Master's specialisation)",
+            "International Business (Master's specialisation | Joint programme optional)",
+            "Marketing (Master's specialisation)",
+            "Responsible Digitalisation (Master's specialisation)",
+            "Science for Sustainability (Master's)",
+            "Strategic Human Resources Leadership (Master's specialisation | Joint programme optional)",
+            "Strategic Management (Master's specialisation)"
         ],
         "faculty": [
             "Nijmegen School of Management"
@@ -2093,10 +2637,10 @@
     },
     {
         "study": "Particle and Astrophysics",
-        "related studies": [
-            "Neurophysics",
-            "Quantum Matter",
-            "Mathematics"
+        "related_studies": [
+            "Neurophysics (Master's specialisation)",
+            "Quantum Matter (Master's specialisation)",
+            "Mathematics (Master's specialisation)"
         ],
         "faculty": [
             "Faculty of Science"
@@ -2106,45 +2650,45 @@
     },
     {
         "study": "Pedagogical Sciences",
-        "related studies": [
-            "Psychology",
-            "Sociology",
-            "Medicine",
-            "Communication Science",
-            "Pedagogical Sciences of Primary Education",
-            "Pedagogical Sciences (ALPO traject)"
+        "related_studies": [
+            "Psychology (Bachelor's)",
+            "Sociology (Bachelor's)",
+            "Medicine (Bachelor's)",
+            "Communication Science (Master's)",
+            "Pedagogical Sciences of Primary Education (Bachelor's)",
+            "Pedagogical Sciences (ALPO traject) (Bachelor's)"
         ],
         "faculty": [
             "Faculty of Social Sciences"
         ],
-        "student_count": "257",
+        "student_count": "316",
         "study_type": "Bachelor's"
     },
     {
         "study": "Pedagogical Sciences",
-        "related studies": [
-            "Educational Sciences",
-            "Curriculum Development for Primary Education",
-            "Behavioural Science (research)",
-            "Healthcare Psychology",
-            "Sociology",
-            "Intersectional Gender Studies"
+        "related_studies": [
+            "Educational Sciences (Master's)",
+            "Curriculum Development for Primary Education (Master's)",
+            "Behavioural Science (research) (Research Master's)",
+            "Healthcare Psychology (Master's specialisation)",
+            "Sociology (Master's)",
+            "Intersectional Gender Studies (Master's)"
         ],
         "faculty": [
             "Faculty of Social Sciences"
         ],
-        "student_count": "236",
+        "student_count": "316",
         "study_type": "Master's"
     },
     {
         "study": "Pedagogical Sciences (ALPO traject)",
-        "related studies": [
-            "Pedagogical Sciences of Primary Education",
-            "Pedagogical Sciences",
-            "Psychology",
-            "Medicine",
-            "Sociology",
-            "Communication Science"
+        "related_studies": [
+            "Pedagogical Sciences of Primary Education (Bachelor's)",
+            "Pedagogical Sciences (Bachelor's)",
+            "Psychology (Bachelor's)",
+            "Medicine (Bachelor's)",
+            "Sociology (Bachelor's)",
+            "Communication Science (Bachelor's)"
         ],
         "faculty": [
             "Faculty of Social Sciences"
@@ -2153,27 +2697,27 @@
     },
     {
         "study": "Pedagogical Sciences of Primary Education",
-        "related studies": [
-            "Pedagogical Sciences (ALPO traject)",
-            "Pedagogical Sciences",
-            "Medicine",
-            "Psychology",
-            "Sociology",
-            "Psychology"
+        "related_studies": [
+            "Pedagogical Sciences (ALPO traject) (Bachelor's)",
+            "Pedagogical Sciences (Bachelor's)",
+            "Medicine (Bachelor's)",
+            "Psychology (Bachelor's)",
+            "Sociology (Bachelor's)",
+            "Psychology (Bachelor's)"
         ],
         "faculty": [
             "Faculty of Social Sciences"
         ],
-        "student_count": "59",
+        "student_count": "49",
         "study_type": "Bachelor's"
     },
     {
         "study": "Philosophy",
-        "related studies": [
-            "History",
-            "Sociology",
-            "Theology",
-            "Philosophy, Politics and Society"
+        "related_studies": [
+            "History (Bachelor's)",
+            "Sociology (Bachelor's)",
+            "Theology (Bachelor's)",
+            "Philosophy, Politics and Society (Bachelor's)"
         ],
         "faculty": [
             "Faculty of Philosophy, Theology and Religious Studies"
@@ -2182,9 +2726,9 @@
     },
     {
         "study": "Philosophy of Behavioural Sciences",
-        "related studies": [
-            "Behavioural Science (research)",
-            "Pedagogical Sciences"
+        "related_studies": [
+            "Behavioural Science (research) (Research Master's)",
+            "Pedagogical Sciences (Master's)"
         ],
         "faculty": [
             "Faculty of Philosophy, Theology and Religious Studies"
@@ -2193,9 +2737,9 @@
     },
     {
         "study": "Philosophy of Cognitive Sciences",
-        "related studies": [
-            "Philosophy of Behavioural Sciences",
-            "Cognitive Neuroscience (research)"
+        "related_studies": [
+            "Philosophy of Behavioural Sciences (Master's specialisation)",
+            "Cognitive Neuroscience (research) (Research Master's)"
         ],
         "faculty": [
             "Faculty of Philosophy, Theology and Religious Studies"
@@ -2204,8 +2748,8 @@
     },
     {
         "study": "Philosophy of Language and Cognition",
-        "related studies": [
-            "Philosophy of Cognitive Sciences"
+        "related_studies": [
+            "Philosophy of Cognitive Sciences (Master's specialisation)"
         ],
         "faculty": [
             "Faculty of Philosophy, Theology and Religious Studies"
@@ -2214,8 +2758,8 @@
     },
     {
         "study": "Philosophy of Law",
-        "related studies": [
-            "Practical Philosophy: Critique of Modernity"
+        "related_studies": [
+            "Practical Philosophy: Critique of Modernity (Master's specialisation)"
         ],
         "faculty": [
             "Faculty of Philosophy, Theology and Religious Studies"
@@ -2224,8 +2768,8 @@
     },
     {
         "study": "Philosophy of Mind and Language",
-        "related studies": [
-            "Philosophy of Language and Cognition"
+        "related_studies": [
+            "Philosophy of Language and Cognition (Master's specialisation)"
         ],
         "faculty": [
             "Faculty of Philosophy, Theology and Religious Studies"
@@ -2234,8 +2778,8 @@
     },
     {
         "study": "Philosophy of Natural and Life Sciences",
-        "related studies": [
-            "Philosophy of Behavioural Sciences"
+        "related_studies": [
+            "Philosophy of Behavioural Sciences (Master's specialisation)"
         ],
         "faculty": [
             "Faculty of Philosophy, Theology and Religious Studies"
@@ -2244,10 +2788,10 @@
     },
     {
         "study": "Philosophy of Political Sciences",
-        "related studies": [
-            "Philosophy of Behavioural Sciences",
-            "Practical Philosophy: Critique of Modernity",
-            "Political Theory"
+        "related_studies": [
+            "Philosophy of Behavioural Sciences (Master's specialisation)",
+            "Practical Philosophy: Critique of Modernity (Master's specialisation)",
+            "Political Theory (Master's specialisation | Joint programme optional)"
         ],
         "faculty": [
             "Faculty of Philosophy, Theology and Religious Studies"
@@ -2256,9 +2800,9 @@
     },
     {
         "study": "Philosophy of Religion",
-        "related studies": [
-            "Theology 1 yr",
-            "Religious Studies"
+        "related_studies": [
+            "Theology 1 yr (Master's specialisation)",
+            "Religious Studies (Master's specialisation)"
         ],
         "faculty": [
             "Faculty of Philosophy, Theology and Religious Studies"
@@ -2267,10 +2811,10 @@
     },
     {
         "study": "Philosophy of Religious Sciences",
-        "related studies": [
-            "Theology 1 yr",
-            "Religious Studies",
-            "Philosophy of Religion"
+        "related_studies": [
+            "Theology 1 yr (Master's specialisation)",
+            "Religious Studies (Master's specialisation)",
+            "Philosophy of Religion (Master's specialisation)"
         ],
         "faculty": [
             "Faculty of Philosophy, Theology and Religious Studies"
@@ -2279,12 +2823,12 @@
     },
     {
         "study": "Philosophy, Politics and Society",
-        "related studies": [
-            "Political Science",
-            "Psychology",
-            "Psychology",
-            "Philosophy",
-            "Religion, Politics and Society"
+        "related_studies": [
+            "Political Science (Bachelor's)",
+            "Psychology (Bachelor's)",
+            "Psychology (Bachelor's)",
+            "Philosophy (Bachelor's)",
+            "Religion, Politics and Society (Bachelor's)"
         ],
         "faculty": [
             "Faculty of Philosophy, Theology and Religious Studies"
@@ -2293,8 +2837,32 @@
     },
     {
         "study": "Philosophy, Politics and Society",
-        "related studies": [
-            "Practical Philosophy: Critique of Modernity"
+        "related_studies": [
+            "Political Science (Bachelor's)",
+            "Psychology (Bachelor's)",
+            "Psychology (Bachelor's)",
+            "Philosophy (Bachelor's)",
+            "Religion, Politics and Society (Bachelor's)"
+        ],
+        "faculty": [
+            "Faculty of Philosophy, Theology and Religious Studies"
+        ],
+        "study_type": "Bachelor's"
+    },
+    {
+        "study": "Philosophy, Politics and Society",
+        "related_studies": [
+            "Practical Philosophy: Critique of Modernity (Master's specialisation)"
+        ],
+        "faculty": [
+            "Faculty of Philosophy, Theology and Religious Studies"
+        ],
+        "study_type": "Master's specialisation"
+    },
+    {
+        "study": "Philosophy, Politics and Society",
+        "related_studies": [
+            "Practical Philosophy: Critique of Modernity (Master's specialisation)"
         ],
         "faculty": [
             "Faculty of Philosophy, Theology and Religious Studies"
@@ -2303,10 +2871,10 @@
     },
     {
         "study": "Physical Chemistry",
-        "related studies": [
-            "Quantum Matter",
-            "Molecular Chemistry",
-            "Chemistry of Life"
+        "related_studies": [
+            "Quantum Matter (Master's specialisation)",
+            "Molecular Chemistry (Master's specialisation)",
+            "Chemistry of Life (Master's specialisation)"
         ],
         "faculty": [
             "Faculty of Science"
@@ -2316,24 +2884,24 @@
     },
     {
         "study": "Physics and Astronomy",
-        "related studies": [
-            "Medicine",
-            "Biomedical Sciences",
-            "Mathematics",
-            "Chemistry",
-            "Science"
+        "related_studies": [
+            "Medicine (Bachelor's)",
+            "Biomedical Sciences (Bachelor's)",
+            "Mathematics (Bachelor's)",
+            "Chemistry (Bachelor's)",
+            "Science (Bachelor's)"
         ],
         "faculty": [
             "Faculty of Science"
         ],
-        "student_count": "121",
+        "student_count": "134",
         "study_type": "Bachelor's"
     },
     {
         "study": "Planning, Land and Real Estate Development",
-        "related studies": [
-            "Cities, Water and Climate Change",
-            "Urban and Regional Mobility"
+        "related_studies": [
+            "Cities, Water and Climate Change (Master's specialisation)",
+            "Urban and Regional Mobility (Master's specialisation)"
         ],
         "faculty": [
             "Nijmegen School of Management"
@@ -2343,10 +2911,10 @@
     },
     {
         "study": "Policy, Knowledge and Conflict",
-        "related studies": [
-            "Governance of Safety and Security",
-            "Management of Civil Challenges",
-            "European Union Governance and Politics"
+        "related_studies": [
+            "Governance of Safety and Security (Master's specialisation)",
+            "Management of Civil Challenges (Master's specialisation)",
+            "European Union Governance and Politics (Master's specialisation)"
         ],
         "faculty": [
             "Nijmegen School of Management"
@@ -2355,29 +2923,29 @@
     },
     {
         "study": "Political Science",
-        "related studies": [
-            "Public Administration",
-            "Sociology",
-            "Geography, Spatial Planning and Environment",
-            "Philosophy, Politics and Society",
-            "History",
-            "European Law School"
+        "related_studies": [
+            "Public Administration (Bachelor's)",
+            "Sociology (Bachelor's)",
+            "Geography, Spatial Planning and Environment (Bachelor's)",
+            "Philosophy, Politics and Society (Bachelor's)",
+            "History (Bachelor's)",
+            "European Law School (Bachelor's)"
         ],
         "faculty": [
             "Nijmegen School of Management"
         ],
-        "student_count": "114",
+        "student_count": "110",
         "study_type": "Bachelor's"
     },
     {
         "study": "Political Theory",
-        "related studies": [
-            "Comparative Politics: Democracies and Autocracies",
-            "Conflict, Power and Politics",
-            "European Union Politics and Governance",
-            "Gender Equality, Diversity and Inclusion in Politics",
-            "Global Political Economy",
-            "International Relations"
+        "related_studies": [
+            "Comparative Politics: Democracies and Autocracies (Master's specialisation | Joint programme optional)",
+            "Conflict, Power and Politics (Master's specialisation | Joint programme optional)",
+            "European Union Politics and Governance (Master's specialisation | Joint programme optional)",
+            "Gender Equality, Diversity and Inclusion in Politics (Master's specialisation | Joint programme optional)",
+            "Global Political Economy (Master's specialisation | Joint programme optional)",
+            "International Relations (Master's specialisation | Joint programme optional)"
         ],
         "faculty": [
             "Nijmegen School of Management"
@@ -2387,12 +2955,12 @@
     },
     {
         "study": "Politics and Parliament",
-        "related studies": [
-            "Ancient and Medieval Mediterranean Worlds",
-            "Modern and Contemporary History",
-            "Historical Studies",
-            "Political Theory",
-            "Two-year Educational Master's History"
+        "related_studies": [
+            "Ancient and Medieval Mediterranean Worlds (Master's specialisation)",
+            "Modern and Contemporary History (Master's specialisation)",
+            "Historical Studies (Master's)",
+            "Political Theory (Master's specialisation | Joint programme optional)",
+            "Two-year Educational Master's History (Master's specialisation)"
         ],
         "faculty": [
             "Faculty of Arts"
@@ -2402,9 +2970,9 @@
     },
     {
         "study": "Practical Philosophy: Critique of Modernity",
-        "related studies": [
-            "Philosophy of Political Sciences",
-            "Continental Philosophy: Phenomenology, Hermeneutics and Psychoanalysis"
+        "related_studies": [
+            "Philosophy of Political Sciences (Master's specialisation)",
+            "Continental Philosophy: Phenomenology, Hermeneutics and Psychoanalysis (Master's specialisation)"
         ],
         "faculty": [
             "Faculty of Philosophy, Theology and Religious Studies"
@@ -2413,10 +2981,10 @@
     },
     {
         "study": "Practical Theology",
-        "related studies": [
-            "Theology 1 yr",
-            "Philosophy of Religion",
-            "Religious Studies"
+        "related_studies": [
+            "Theology 1 yr (Master's specialisation)",
+            "Philosophy of Religion (Master's specialisation)",
+            "Religious Studies (Master's specialisation)"
         ],
         "faculty": [
             "Faculty of Philosophy, Theology and Religious Studies"
@@ -2425,25 +2993,25 @@
     },
     {
         "study": "Pre-Master's Anthropology and Development Studies",
-        "related studies": [
-            "Anthropology and Development Studies",
-            "Social and Cultural Science: Comparative Research on Societies (research)",
-            "Pre-Master's Sociology",
-            "Pre-Master's Human Geography",
-            "Pre-Master's Environment and Society Studies",
-            "Pre-Master's Political Science"
+        "related_studies": [
+            "Anthropology and Development Studies (Master's | Joint programme optional)",
+            "Social and Cultural Science: Comparative Research on Societies (research) (Research Master's)",
+            "Pre-Master's Sociology (Pre-Master's)",
+            "Pre-Master's Human Geography (Pre-Master's)",
+            "Pre-Master's Environment and Society Studies (Pre-Master's)",
+            "Pre-Master's Political Science (Pre-Master's)"
         ],
         "faculty": [
             "Faculty of Social Sciences"
         ],
-        "study_type": "Pre-master's"
+        "study_type": "Pre-Master's"
     },
     {
         "study": "Pre-Master's Artificial Intelligence: Cognitive Computing",
-        "related studies": [
-            "Pre-Master's Artificial Intelligence: Intelligent Technology",
-            "Intelligent Technology",
-            "Cognitive Computing"
+        "related_studies": [
+            "Pre-Master's Artificial Intelligence: Intelligent Technology (Pre-Master's)",
+            "Intelligent Technology (Master's specialisation | Joint programme optional)",
+            "Cognitive Computing (Master's specialisation)"
         ],
         "faculty": [
             "Faculty of Social Sciences"
@@ -2452,10 +3020,10 @@
     },
     {
         "study": "Pre-Master's Artificial Intelligence: Intelligent Technology",
-        "related studies": [
-            "Pre-Master's Artificial Intelligence: Cognitive Computing",
-            "Intelligent Technology",
-            "Cognitive Computing"
+        "related_studies": [
+            "Pre-Master's Artificial Intelligence: Cognitive Computing (Pre-Master's)",
+            "Intelligent Technology (Master's specialisation | Joint programme optional)",
+            "Cognitive Computing (Master's specialisation)"
         ],
         "faculty": [
             "Faculty of Social Sciences"
@@ -2463,48 +3031,248 @@
         "study_type": "Pre-Master's"
     },
     {
+        "study": "Pre-Master's Arts & Culture: Art History",
+        "related_studies": [],
+        "faculty": [
+            "Faculty of Arts"
+        ],
+        "study_type": "Pre-Master's"
+    },
+    {
+        "study": "Pre-Master's Arts & Culture: Creative Industries",
+        "related_studies": [],
+        "faculty": [
+            "Faculty of Arts"
+        ],
+        "study_type": "Pre-Master's"
+    },
+    {
+        "study": "Pre-Master's Arts & Culture: Tourism and Culture",
+        "related_studies": [],
+        "faculty": [
+            "Faculty of Arts"
+        ],
+        "study_type": "Pre-Master's"
+    },
+    {
+        "study": "Pre-Master's Biology",
+        "related_studies": [],
+        "faculty": [
+            "Faculty of Science"
+        ],
+        "study_type": "Pre-Master's"
+    },
+    {
+        "study": "Pre-Master's Biomedical Sciences",
+        "related_studies": [],
+        "faculty": [
+            "Faculty of Medical Sciences"
+        ],
+        "study_type": "Pre-Master's"
+    },
+    {
+        "study": "Pre-Master's Business Administration",
+        "related_studies": [],
+        "faculty": [
+            "Nijmegen School of Management"
+        ],
+        "study_type": "Pre-Master's"
+    },
+    {
+        "study": "Pre-Master's Classics & Ancient Civilizations: Classical Culture",
+        "related_studies": [],
+        "faculty": [
+            "Faculty of Arts"
+        ],
+        "study_type": "Pre-Master's"
+    },
+    {
         "study": "Pre-Master's Communication Science",
-        "related studies": [
-            "Communication Science",
-            "Pre-Master's Sociology",
-            "Pre-Master's Communication and Persuasion",
-            "Pre-Master's Anthropology and Development Studies",
-            "Pre-Master's Educational Sciences"
+        "related_studies": [
+            "Communication Science (Master's)",
+            "Pre-Master's Sociology (Pre-Master's)",
+            "Pre-Master's Communication and Persuasion (Pre-Master's)",
+            "Pre-Master's Anthropology and Development Studies (Pre-Master's)",
+            "Pre-Master's Educational Sciences (Pre-Master's)"
         ],
         "faculty": [
             "Faculty of Social Sciences"
         ],
-        "study_type": "Pre-master's"
+        "study_type": "Pre-Master's"
+    },
+    {
+        "study": "Pre-Master's Communication and Persuasion",
+        "related_studies": [],
+        "faculty": [
+            "Faculty of Arts"
+        ],
+        "study_type": "Pre-Master's"
+    },
+    {
+        "study": "Pre-Master's Computing Science",
+        "related_studies": [],
+        "faculty": [
+            "Faculty of Science"
+        ],
+        "study_type": "Pre-Master's"
+    },
+    {
+        "study": "Pre-Master's Dutch as a Second Language: Teacher and Expert",
+        "related_studies": [],
+        "faculty": [
+            "Faculty of Arts"
+        ],
+        "study_type": "Pre-Master's"
+    },
+    {
+        "study": "Pre-Master's Economics",
+        "related_studies": [],
+        "faculty": [
+            "Nijmegen School of Management"
+        ],
+        "study_type": "Pre-Master's"
     },
     {
         "study": "Pre-Master's Educational Sciences",
-        "related studies": [
-            "Educational Sciences",
-            "Pre-Master's Pedagogical Sciences",
-            "Pre-Master's Sociology",
-            "Pre-master Curriculumontwikkeling voor Primair Onderwijs"
+        "related_studies": [
+            "Educational Sciences (Master's)",
+            "Pre-Master's Pedagogical Sciences (Pre-Master's)",
+            "Pre-Master's Sociology (Pre-Master's)",
+            "Pre-master Curriculumontwikkeling voor Primair Onderwijs (Pre-Master's)"
         ],
         "faculty": [
             "Faculty of Social Sciences"
         ],
-        "study_type": "Pre-master's"
+        "study_type": "Pre-Master's"
+    },
+    {
+        "study": "Pre-Master's Environment and Society Studies",
+        "related_studies": [],
+        "faculty": [
+            "Nijmegen School of Management"
+        ],
+        "study_type": "Pre-Master's"
+    },
+    {
+        "study": "Pre-Master's European Studies",
+        "related_studies": [],
+        "faculty": [
+            "Faculty of Arts"
+        ],
+        "study_type": "Pre-Master's"
+    },
+    {
+        "study": "Pre-Master's Global Communication and Diversity",
+        "related_studies": [],
+        "faculty": [
+            "Faculty of Arts"
+        ],
+        "study_type": "Pre-Master's"
+    },
+    {
+        "study": "Pre-Master's History: Ancient and Medieval Mediterranean Worlds",
+        "related_studies": [],
+        "faculty": [
+            "Faculty of Arts"
+        ],
+        "study_type": "Pre-Master's"
+    },
+    {
+        "study": "Pre-Master's History: Modern and Contemporary History",
+        "related_studies": [],
+        "faculty": [
+            "Faculty of Arts"
+        ],
+        "study_type": "Pre-Master's"
+    },
+    {
+        "study": "Pre-Master's History: Politics and Parliament",
+        "related_studies": [],
+        "faculty": [
+            "Faculty of Arts"
+        ],
+        "study_type": "Pre-Master's"
+    },
+    {
+        "study": "Pre-Master's Human Geography",
+        "related_studies": [],
+        "faculty": [
+            "Nijmegen School of Management"
+        ],
+        "study_type": "Pre-Master's"
+    },
+    {
+        "study": "Pre-Master's Information Sciences",
+        "related_studies": [],
+        "faculty": [
+            "Faculty of Science"
+        ],
+        "study_type": "Pre-Master's"
+    },
+    {
+        "study": "Pre-Master's Language Variation and Multilingualism",
+        "related_studies": [],
+        "faculty": [
+            "Faculty of Arts"
+        ],
+        "study_type": "Pre-Master's"
+    },
+    {
+        "study": "Pre-Master's Language and Communication Technology",
+        "related_studies": [],
+        "faculty": [
+            "Faculty of Arts"
+        ],
+        "study_type": "Pre-Master's"
+    },
+    {
+        "study": "Pre-Master's Language and Speech Pathology",
+        "related_studies": [],
+        "faculty": [
+            "Faculty of Arts"
+        ],
+        "study_type": "Pre-Master's"
+    },
+    {
+        "study": "Pre-Master's Literary Studies",
+        "related_studies": [],
+        "faculty": [
+            "Faculty of Arts"
+        ],
+        "study_type": "Pre-Master's"
     },
     {
         "study": "Pre-Master's Mathematics",
-        "related studies": [
-            "Mathematics",
-            "Mathematics"
+        "related_studies": [
+            "Mathematics (Master's specialisation)",
+            "Mathematics (Bachelor's)"
         ],
         "faculty": [
             "Faculty of Science"
         ],
-        "study_type": "Pre-master's"
+        "study_type": "Pre-Master's"
+    },
+    {
+        "study": "Pre-Master's Medical Biology",
+        "related_studies": [],
+        "faculty": [
+            "Faculty of Science"
+        ],
+        "study_type": "Pre-Master's"
+    },
+    {
+        "study": "Pre-Master's Molecular Sciences",
+        "related_studies": [],
+        "faculty": [
+            "Faculty of Science"
+        ],
+        "study_type": "Pre-Master's"
     },
     {
         "study": "Pre-Master's Orthodox Christianity",
-        "related studies": [
-            "Pre-Master's Theology",
-            "Pre-Master's Theology & Religious Studies: Religious Studies"
+        "related_studies": [
+            "Pre-Master's Theology (Pre-Master's)",
+            "Pre-Master's Theology & Religious Studies: Religious Studies (Pre-Master's)"
         ],
         "faculty": [
             "Faculty of Philosophy, Theology and Religious Studies"
@@ -2513,159 +3281,268 @@
     },
     {
         "study": "Pre-Master's Pedagogical Sciences",
-        "related studies": [
-            "Pedagogical Sciences",
-            "Pre-Master's Educational Sciences",
-            "Pre-master Curriculumontwikkeling voor Primair Onderwijs",
-            "Pre-Master's Sociology",
-            "Pre-Master's Communication Science"
+        "related_studies": [
+            "Pedagogical Sciences (Master's)",
+            "Pre-Master's Educational Sciences (Pre-Master's)",
+            "Pre-master Curriculumontwikkeling voor Primair Onderwijs (Pre-Master's)",
+            "Pre-Master's Sociology (Pre-Master's)",
+            "Pre-Master's Communication Science (Pre-Master's)"
         ],
         "faculty": [
             "Faculty of Social Sciences"
         ],
-        "study_type": "Pre-master's"
+        "study_type": "Pre-Master's"
+    },
+    {
+        "study": "Pre-Master's Philosophy",
+        "related_studies": [],
+        "faculty": [
+            "Faculty of Philosophy, Theology and Religious Studies"
+        ],
+        "study_type": "Pre-Master's"
+    },
+    {
+        "study": "Pre-Master's Physics and Astronomy",
+        "related_studies": [],
+        "faculty": [
+            "Faculty of Science"
+        ],
+        "study_type": "Pre-Master's"
+    },
+    {
+        "study": "Pre-Master's Political Science",
+        "related_studies": [],
+        "faculty": [
+            "Nijmegen School of Management"
+        ],
+        "study_type": "Pre-Master's"
     },
     {
         "study": "Pre-Master's Private Law",
-        "related studies": [
-            "Civil Law",
-            "Financial Law",
-            "Company Law",
-            "Business and Law - dual master",
-            "Business and Law (research)"
+        "related_studies": [
+            "Civil Law (Master's specialisation)",
+            "Financial Law (Master's specialisation)",
+            "Company Law (Master's specialisation)",
+            "Business and Law - dual master (Master's)",
+            "Business and Law (research) (Research Master's)"
         ],
         "faculty": [
             "Faculty of Law"
         ],
-        "study_type": "Pre-master's"
+        "study_type": "Pre-Master's"
+    },
+    {
+        "study": "Pre-Master's Public Administration",
+        "related_studies": [],
+        "faculty": [
+            "Nijmegen School of Management"
+        ],
+        "study_type": "Pre-Master's"
     },
     {
         "study": "Pre-Master's Public Law",
-        "related studies": [
-            "Constitutional and Administrative Law",
-            "Criminal Law"
+        "related_studies": [
+            "Constitutional and Administrative Law (Master's specialisation)",
+            "Criminal Law (Master's specialisation)"
         ],
         "faculty": [
             "Faculty of Law"
         ],
-        "study_type": "Pre-master's"
+        "study_type": "Pre-Master's"
     },
     {
         "study": "Pre-Master's Sociology",
-        "related studies": [
-            "Sociology",
-            "Pre-Master's Anthropology and Development Studies",
-            "Pre-Master's Communication Science",
-            "Pre-Master's Educational Sciences"
+        "related_studies": [
+            "Sociology (Master's)",
+            "Pre-Master's Anthropology and Development Studies (Pre-Master's)",
+            "Pre-Master's Communication Science (Pre-Master's)",
+            "Pre-Master's Educational Sciences (Pre-Master's)"
         ],
         "faculty": [
             "Faculty of Social Sciences"
         ],
-        "study_type": "Pre-master's"
+        "study_type": "Pre-Master's"
+    },
+    {
+        "study": "Pre-Master's Spatial Planning",
+        "related_studies": [],
+        "faculty": [
+            "Nijmegen School of Management"
+        ],
+        "study_type": "Pre-Master's"
     },
     {
         "study": "Pre-Master's Tax Law",
-        "related studies": [
-            "Tax Law"
+        "related_studies": [
+            "Tax Law (Master's)"
         ],
         "faculty": [
             "Faculty of Law"
         ],
-        "study_type": "Pre-master's"
+        "study_type": "Pre-Master's"
     },
     {
         "study": "Pre-Master's Theology",
-        "related studies": [
-            "Pre-Master's Theology & Religious Studies: Religious Studies"
+        "related_studies": [
+            "Pre-Master's Theology & Religious Studies: Religious Studies (Pre-Master's)"
         ],
         "faculty": [
             "Faculty of Philosophy, Theology and Religious Studies"
         ],
-        "study_type": "Pre-master's"
+        "study_type": "Pre-Master's"
     },
     {
         "study": "Pre-Master's Theology & Religious Studies: Islam, Politics and Society",
-        "related studies": [
-            "Pre-Master's Theology & Religious Studies: Religious Studies"
+        "related_studies": [
+            "Pre-Master's Theology & Religious Studies: Religious Studies (Pre-Master's)"
         ],
         "faculty": [
             "Faculty of Philosophy, Theology and Religious Studies"
         ],
-        "study_type": "Pre-master's"
+        "study_type": "Pre-Master's"
     },
     {
         "study": "Pre-Master's Theology & Religious Studies: Religious Studies",
-        "related studies": [
-            "Pre-Master's Theology & Religious Studies: Islam, Politics and Society",
-            "Pre-Master's Theology"
+        "related_studies": [
+            "Pre-Master's Theology & Religious Studies: Islam, Politics and Society (Pre-Master's)",
+            "Pre-Master's Theology (Pre-Master's)"
         ],
         "faculty": [
             "Faculty of Philosophy, Theology and Religious Studies"
         ],
-        "study_type": "Pre-master's"
+        "study_type": "Pre-Master's"
+    },
+    {
+        "study": "Pre-Master's Transatlantic Studies: History, Culture and Politics",
+        "related_studies": [],
+        "faculty": [
+            "Faculty of Arts"
+        ],
+        "study_type": "Pre-Master's"
     },
     {
         "study": "Pre-master Curriculumontwikkeling voor Primair Onderwijs",
-        "related studies": [
-            "Curriculum Development for Primary Education",
-            "Pre-Master's Pedagogical Sciences",
-            "Pre-Master's Educational Sciences",
-            "Two-year Educational Pre-Master's Dutch"
+        "related_studies": [
+            "Curriculum Development for Primary Education (Master's)",
+            "Pre-Master's Pedagogical Sciences (Pre-Master's)",
+            "Pre-Master's Educational Sciences (Pre-Master's)",
+            "Two-year Educational Pre-Master's Dutch (Pre-Master's)"
         ],
         "faculty": [
             "Faculty of Social Sciences"
         ],
-        "study_type": "Pre-master's"
+        "study_type": "Pre-Master's"
+    },
+    {
+        "study": "Pre-master Educatie in de Bètawetenschappen",
+        "related_studies": [],
+        "faculty": [
+            "Faculty of Science"
+        ],
+        "study_type": "Pre-Master's"
+    },
+    {
+        "study": "Pre-master Geneeskunde",
+        "related_studies": [],
+        "faculty": [
+            "Faculty of Medical Sciences"
+        ],
+        "study_type": "Pre-Master's"
     },
     {
         "study": "Pre-master Notarieel Recht",
-        "related studies": [
-            "Law",
-            "Notarial Law",
-            "European Law School"
+        "related_studies": [
+            "Law (Bachelor's)",
+            "Notarial Law (Bachelor's)",
+            "European Law School (Bachelor's)"
         ],
         "faculty": [
             "Faculty of Law"
         ],
-        "study_type": "Pre-master's"
+        "study_type": "Pre-Master's"
     },
     {
         "study": "Psychology",
-        "related studies": [
-            "Medicine",
-            "Pedagogical Sciences",
-            "Human Neuroscience",
-            "Sociology",
-            "Biomedical Sciences",
-            "Communication Science"
+        "related_studies": [
+            "Medicine (Bachelor's)",
+            "Pedagogical Sciences (Bachelor's)",
+            "Human Neuroscience (Bachelor's)",
+            "Sociology (Bachelor's)",
+            "Biomedical Sciences (Bachelor's)",
+            "Communication Science (Bachelor's)"
         ],
         "faculty": [
             "Faculty of Social Sciences"
         ],
+        "student_count": "563",
+        "study_type": "Bachelor's"
+    },
+    {
+        "study": "Psychology",
+        "related_studies": [
+            "Medicine (Bachelor's)",
+            "Pedagogical Sciences (Bachelor's)",
+            "Human Neuroscience (Bachelor's)",
+            "Sociology (Bachelor's)",
+            "Biomedical Sciences (Bachelor's)",
+            "Communication Science (Bachelor's)"
+        ],
+        "faculty": [
+            "Faculty of Social Sciences"
+        ],
+        "student_count": "563",
+        "study_type": "Bachelor's"
+    },
+    {
+        "study": "Psychology",
+        "related_studies": [
+            "Medicine (Bachelor's)",
+            "Pedagogical Sciences (Bachelor's)",
+            "Human Neuroscience (Bachelor's)",
+            "Sociology (Bachelor's)",
+            "Biomedical Sciences (Bachelor's)",
+            "Communication Science (Bachelor's)"
+        ],
+        "faculty": [
+            "Faculty of Social Sciences"
+        ],
+        "student_count": "563",
         "study_type": "Bachelor's"
     },
     {
         "study": "Public Administration",
-        "related studies": [
-            "Political Science",
-            "Sociology",
-            "Bedrijfskunde",
-            "Law",
-            "Economics and Business Economics",
-            "Recht en Management"
+        "related_studies": [
+            "Political Science (Bachelor's)",
+            "Sociology (Bachelor's)",
+            "Bedrijfskunde (Bachelor's)",
+            "Law (Bachelor's)",
+            "Economics and Business Economics (Bachelor's)",
+            "Law and Management (Bachelor's)"
         ],
         "faculty": [
             "Nijmegen School of Management"
         ],
-        "student_count": "73",
+        "student_count": "89",
         "study_type": "Bachelor's"
     },
     {
+        "study": "Publiekrecht",
+        "related_studies": [
+            "Business and Law (research) (Research Master's)",
+            "Criminal Law (Master's specialisation)",
+            "Constitutional and Administrative Law (Master's specialisation)"
+        ],
+        "faculty": [
+            "Faculty of Law"
+        ],
+        "study_type": "Onderzoeksmaster | Joint programme"
+    },
+    {
         "study": "Quantum Matter",
-        "related studies": [
-            "Physical Chemistry",
-            "Neurophysics",
-            "Particle and Astrophysics"
+        "related_studies": [
+            "Physical Chemistry (Master's specialisation)",
+            "Neurophysics (Master's specialisation)",
+            "Particle and Astrophysics (Master's specialisation)"
         ],
         "faculty": [
             "Faculty of Science"
@@ -2675,10 +3552,10 @@
     },
     {
         "study": "Religion and Policy",
-        "related studies": [
-            "Religious Studies",
-            "Islam, Politics and Society",
-            "Spiritual Care"
+        "related_studies": [
+            "Religious Studies (Master's specialisation)",
+            "Islam, Politics and Society (Master's specialisation)",
+            "Spiritual Care (Master's specialisation)"
         ],
         "faculty": [
             "Faculty of Philosophy, Theology and Religious Studies"
@@ -2687,14 +3564,14 @@
     },
     {
         "study": "Religion, Politics and Society",
-        "related studies": [
-            "Islam, Politics and Society",
-            "Cultural Anthropology and Development Sociology",
-            "Political Science",
-            "Sociology",
-            "Philosophy",
-            "Theology",
-            "Philosophy, Politics and Society"
+        "related_studies": [
+            "Islam, Politics and Society (Bachelor's)",
+            "Cultural Anthropology and Development Sociology (Bachelor's)",
+            "Political Science (Bachelor's)",
+            "Sociology (Bachelor's)",
+            "Philosophy (Bachelor's)",
+            "Theology (Bachelor's)",
+            "Philosophy, Politics and Society (Bachelor's)"
         ],
         "faculty": [
             "Faculty of Philosophy, Theology and Religious Studies"
@@ -2703,12 +3580,12 @@
     },
     {
         "study": "Religious Studies",
-        "related studies": [
-            "Religion and Policy",
-            "Spiritual Care",
-            "Islam, Politics and Society",
-            "Theology 1 yr",
-            "Philosophy of Religious Sciences"
+        "related_studies": [
+            "Religion and Policy (Master's specialisation)",
+            "Spiritual Care (Master's specialisation)",
+            "Islam, Politics and Society (Master's specialisation)",
+            "Theology 1 yr (Master's specialisation)",
+            "Philosophy of Religious Sciences (Master's specialisation)"
         ],
         "faculty": [
             "Faculty of Philosophy, Theology and Religious Studies"
@@ -2717,16 +3594,16 @@
     },
     {
         "study": "Responsible Digitalisation",
-        "related studies": [
-            "Business Analysis and Modelling",
-            "European Master in System Dynamics",
-            "Gender Equality, Diversity and Inclusion in Management",
-            "International Business",
-            "Marketing",
-            "Organisational Design & Development",
-            "Science for Sustainability",
-            "Strategic Human Resources Leadership",
-            "Strategic Management"
+        "related_studies": [
+            "Business Analysis and Modelling (Master's specialisation)",
+            "European Master in System Dynamics (Master's specialisation | Joint programme)",
+            "Gender Equality, Diversity and Inclusion in Management (Master's specialisation)",
+            "International Business (Master's specialisation | Joint programme optional)",
+            "Marketing (Master's specialisation)",
+            "Organisational Design & Development (Master's specialisation)",
+            "Science for Sustainability (Master's)",
+            "Strategic Human Resources Leadership (Master's specialisation | Joint programme optional)",
+            "Strategic Management (Master's specialisation)"
         ],
         "faculty": [
             "Nijmegen School of Management"
@@ -2735,12 +3612,12 @@
     },
     {
         "study": "Roman Archeology",
-        "related studies": [
-            "Art History",
-            "Greek and Latin Language and Literature",
-            "Ancient and Medieval Mediterranean Worlds",
-            "Historical Studies",
-            "Two-year Educational Master's Classics"
+        "related_studies": [
+            "Art History (Master's specialisation)",
+            "Greek and Latin Language and Literature (Master's specialisation)",
+            "Ancient and Medieval Mediterranean Worlds (Master's specialisation)",
+            "Historical Studies (Master's)",
+            "Two-year Educational Master's Classics (Master's specialisation)"
         ],
         "faculty": [
             "Faculty of Arts"
@@ -2750,25 +3627,55 @@
     },
     {
         "study": "Science",
-        "related studies": [
-            "Physics and Astronomy",
-            "Chemistry",
-            "Biomedical Sciences",
-            "Molecular Life Sciences",
-            "Biology"
+        "related_studies": [
+            "Physics and Astronomy (Bachelor's)",
+            "Chemistry (Bachelor's)",
+            "Biomedical Sciences (Bachelor's)",
+            "Molecular Life Sciences (Bachelor's)",
+            "Biology (Bachelor's)"
         ],
         "faculty": [
             "Faculty of Science"
         ],
-        "student_count": "40",
+        "student_count": "29",
+        "study_type": "Bachelor's"
+    },
+    {
+        "study": "Science",
+        "related_studies": [
+            "Physics and Astronomy (Bachelor's)",
+            "Chemistry (Bachelor's)",
+            "Biomedical Sciences (Bachelor's)",
+            "Molecular Life Sciences (Bachelor's)",
+            "Biology (Bachelor's)"
+        ],
+        "faculty": [
+            "Faculty of Science"
+        ],
+        "student_count": "29",
+        "study_type": "Bachelor's"
+    },
+    {
+        "study": "Science",
+        "related_studies": [
+            "Physics and Astronomy (Bachelor's)",
+            "Chemistry (Bachelor's)",
+            "Biomedical Sciences (Bachelor's)",
+            "Molecular Life Sciences (Bachelor's)",
+            "Biology (Bachelor's)"
+        ],
+        "faculty": [
+            "Faculty of Science"
+        ],
+        "student_count": "29",
         "study_type": "Bachelor's"
     },
     {
         "study": "Science for Sustainability",
-        "related studies": [
-            "Environment & Sustainability",
-            "Cities, Water and Climate Change",
-            "Conservation and Restoration Ecology"
+        "related_studies": [
+            "Environment & Sustainability (Master's specialisation)",
+            "Cities, Water and Climate Change (Master's specialisation)",
+            "Conservation and Restoration Ecology (Master's specialisation)"
         ],
         "faculty": [
             "Faculty of Science"
@@ -2776,14 +3683,38 @@
         "study_type": "Master's"
     },
     {
+        "study": "Science in Society",
+        "related_studies": [
+            "Science, Management and Innovation (Master's specialisation)",
+            "Philosophy, Politics and Society (Master's specialisation)"
+        ],
+        "faculty": [
+            "Faculty of Science"
+        ],
+        "student_count": "37",
+        "study_type": "Master's specialisation"
+    },
+    {
+        "study": "Science, Management and Innovation",
+        "related_studies": [
+            "Science in Society (Master's specialisation)",
+            "Innovation and Entrepreneurship (Master's specialisation)"
+        ],
+        "faculty": [
+            "Faculty of Science"
+        ],
+        "student_count": "78",
+        "study_type": "Master's specialisation"
+    },
+    {
         "study": "Social and Cultural Science: Comparative Research on Societies (research)",
-        "related studies": [
-            "Sociology",
-            "Anthropology and Development Studies",
-            "Intersectional Gender Studies",
-            "Comparative Politics: Democracies and Autocracies",
-            "Behavioural Science (research)",
-            "Communication Science"
+        "related_studies": [
+            "Sociology (Master's)",
+            "Anthropology and Development Studies (Master's | Joint programme optional)",
+            "Intersectional Gender Studies (Master's)",
+            "Comparative Politics: Democracies and Autocracies (Master's specialisation | Joint programme optional)",
+            "Behavioural Science (research) (Research Master's)",
+            "Communication Science (Master's)"
         ],
         "faculty": [
             "Faculty of Social Sciences"
@@ -2793,57 +3724,58 @@
     },
     {
         "study": "Society, Language and Culture",
-        "related studies": [
-            "Cultural Anthropology and Development Sociology",
-            "German Language and Culture",
-            "French Language and Culture",
-            "Geography, Spatial Planning and Environment",
-            "Spanish Language and Culture",
-            "Sociology"
+        "related_studies": [
+            "Cultural Anthropology and Development Sociology (Bachelor's)",
+            "German Language and Culture (Bachelor's)",
+            "French Language and Culture (Bachelor's)",
+            "Geography, Spatial Planning and Environment (Bachelor's)",
+            "Spanish Language and Culture (Bachelor's)",
+            "Sociology (Bachelor's)"
         ],
         "faculty": [
             "Faculty of Arts"
         ],
+        "student_count": "50",
         "study_type": "Bachelor's"
     },
     {
         "study": "Sociology",
-        "related studies": [
-            "Psychology",
-            "Pedagogical Sciences",
-            "Political Science",
-            "Communication Science",
-            "Cultural Anthropology and Development Sociology",
-            "Public Administration"
+        "related_studies": [
+            "Psychology (Bachelor's)",
+            "Pedagogical Sciences (Bachelor's)",
+            "Political Science (Bachelor's)",
+            "Communication Science (Bachelor's)",
+            "Cultural Anthropology and Development Sociology (Bachelor's)",
+            "Public Administration (Bachelor's)"
         ],
         "faculty": [
             "Faculty of Social Sciences"
         ],
-        "student_count": "59",
+        "student_count": "67",
         "study_type": "Bachelor's"
     },
     {
         "study": "Sociology",
-        "related studies": [
-            "Pre-Master's Sociology",
-            "Intersectional Gender Studies",
-            "Social and Cultural Science: Comparative Research on Societies (research)",
-            "Anthropology and Development Studies",
-            "One-year Educational Master's Social Studies and Social Sciences",
-            "Communication Science"
+        "related_studies": [
+            "Pre-Master's Sociology (Pre-Master's)",
+            "Intersectional Gender Studies (Master's)",
+            "Social and Cultural Science: Comparative Research on Societies (research) (Research Master's)",
+            "Anthropology and Development Studies (Master's | Joint programme optional)",
+            "One-year Educational Master's Social Studies and Social Sciences (Master's)",
+            "Communication Science (Master's)"
         ],
         "faculty": [
             "Faculty of Social Sciences"
         ],
-        "student_count": "24",
+        "student_count": "67",
         "study_type": "Master's"
     },
     {
         "study": "Software Science",
-        "related studies": [
-            "Cyber Security",
-            "Data Science",
-            "Mathematical Foundations of Computer Science"
+        "related_studies": [
+            "Cyber Security (Master's specialisation)",
+            "Data Science (Master's specialisation)",
+            "Mathematical Foundations of Computer Science (Master's specialisation)"
         ],
         "faculty": [
             "Faculty of Science"
@@ -2853,12 +3785,12 @@
     },
     {
         "study": "Spanish Language and Culture",
-        "related studies": [
-            "Communication and Information Studies",
-            "French Language and Culture",
-            "Linguistics",
-            "German Language and Culture",
-            "Cultural Anthropology and Development Sociology"
+        "related_studies": [
+            "Communication and Information Studies (Bachelor's)",
+            "French Language and Culture (Bachelor's)",
+            "Linguistics (Bachelor's)",
+            "German Language and Culture (Bachelor's)",
+            "Cultural Anthropology and Development Sociology (Bachelor's)"
         ],
         "faculty": [
             "Faculty of Arts"
@@ -2868,10 +3800,10 @@
     },
     {
         "study": "Spiritual Care",
-        "related studies": [
-            "Theology 1 yr",
-            "Religious Studies",
-            "Practical Theology"
+        "related_studies": [
+            "Theology 1 yr (Master's specialisation)",
+            "Religious Studies (Master's specialisation)",
+            "Practical Theology (Master's specialisation)"
         ],
         "faculty": [
             "Faculty of Philosophy, Theology and Religious Studies"
@@ -2880,17 +3812,17 @@
     },
     {
         "study": "Strategic Human Resources Leadership",
-        "related studies": [
-            "Business Analysis and Modelling",
-            "European Master in System Dynamics",
-            "Gender Equality, Diversity and Inclusion in Management",
-            "Innovation and Entrepreneurship",
-            "International Business",
-            "Marketing",
-            "Organisational Design & Development",
-            "Responsible Digitalisation",
-            "Science for Sustainability",
-            "Strategic Management"
+        "related_studies": [
+            "Business Analysis and Modelling (Master's specialisation)",
+            "European Master in System Dynamics (Master's specialisation | Joint programme)",
+            "Gender Equality, Diversity and Inclusion in Management (Master's specialisation)",
+            "Innovation and Entrepreneurship (Master's specialisation)",
+            "International Business (Master's specialisation | Joint programme optional)",
+            "Marketing (Master's specialisation)",
+            "Organisational Design & Development (Master's specialisation)",
+            "Responsible Digitalisation (Master's specialisation)",
+            "Science for Sustainability (Master's)",
+            "Strategic Management (Master's specialisation)"
         ],
         "faculty": [
             "Nijmegen School of Management"
@@ -2900,17 +3832,17 @@
     },
     {
         "study": "Strategic Management",
-        "related studies": [
-            "Business Analysis and Modelling",
-            "European Master in System Dynamics",
-            "Gender Equality, Diversity and Inclusion in Management",
-            "Innovation and Entrepreneurship",
-            "International Business",
-            "Marketing",
-            "Organisational Design & Development",
-            "Responsible Digitalisation",
-            "Science for Sustainability",
-            "Strategic Human Resources Leadership"
+        "related_studies": [
+            "Business Analysis and Modelling (Master's specialisation)",
+            "European Master in System Dynamics (Master's specialisation | Joint programme)",
+            "Gender Equality, Diversity and Inclusion in Management (Master's specialisation)",
+            "Innovation and Entrepreneurship (Master's specialisation)",
+            "International Business (Master's specialisation | Joint programme optional)",
+            "Marketing (Master's specialisation)",
+            "Organisational Design & Development (Master's specialisation)",
+            "Responsible Digitalisation (Master's specialisation)",
+            "Science for Sustainability (Master's)",
+            "Strategic Human Resources Leadership (Master's specialisation | Joint programme optional)"
         ],
         "faculty": [
             "Nijmegen School of Management"
@@ -2920,11 +3852,11 @@
     },
     {
         "study": "Sustainable Economies and Corporations",
-        "related studies": [
-            "Global Environment and Sustainability",
-            "Local Environmental Change and Sustainable Cities",
-            "Environmental Justice and Governance",
-            "Science for Sustainability"
+        "related_studies": [
+            "Global Environment and Sustainability (Master's specialisation)",
+            "Local Environmental Change and Sustainable Cities (Master's specialisation)",
+            "Environmental Justice and Governance (Master's specialisation)",
+            "Science for Sustainability (Master's)"
         ],
         "faculty": [
             "Nijmegen School of Management"
@@ -2934,10 +3866,10 @@
     },
     {
         "study": "Systematic Theology",
-        "related studies": [
-            "Theology 1 yr",
-            "Philosophy of Religion",
-            "Religious Studies"
+        "related_studies": [
+            "Theology 1 yr (Master's specialisation)",
+            "Philosophy of Religion (Master's specialisation)",
+            "Religious Studies (Master's specialisation)"
         ],
         "faculty": [
             "Faculty of Philosophy, Theology and Religious Studies"
@@ -2946,24 +3878,24 @@
     },
     {
         "study": "Tax Law",
-        "related studies": [
-            "Financial Law",
-            "Company Law",
-            "Notarial Law"
+        "related_studies": [
+            "Financial Law (Master's specialisation)",
+            "Company Law (Master's specialisation)",
+            "Notarial Law (Master's)"
         ],
         "faculty": [
             "Faculty of Law"
         ],
-        "student_count": "87",
+        "student_count": "27",
         "study_type": "Master's"
     },
     {
         "study": "The Book Industry",
-        "related studies": [
-            "Literature and Society",
-            "Literary Studies",
-            "Cultural Policy and the Business of Art",
-            "Two-year Educational Master's Dutch"
+        "related_studies": [
+            "Literature and Society (Master's specialisation)",
+            "Literary Studies (Master's)",
+            "Cultural Policy and the Business of Art (Master's specialisation)",
+            "Two-year Educational Master's Dutch (Master's specialisation)"
         ],
         "faculty": [
             "Faculty of Arts"
@@ -2973,24 +3905,25 @@
     },
     {
         "study": "Theology",
-        "related studies": [
-            "Philosophy",
-            "Philosophy, Politics and Society",
-            "Religion, Politics and Society"
+        "related_studies": [
+            "Philosophy (Bachelor's)",
+            "Philosophy, Politics and Society (Bachelor's)",
+            "Religion, Politics and Society (Bachelor's)"
         ],
         "faculty": [
             "Faculty of Philosophy, Theology and Religious Studies"
         ],
+        "student_count": "14 7",
         "study_type": "Bachelor's"
     },
     {
         "study": "Theology 1 yr",
-        "related studies": [
-            "Biblical Exegesis",
-            "History of Church and Theology",
-            "Practical Theology",
-            "Systematic Theology",
-            "Religious Studies"
+        "related_studies": [
+            "Biblical Exegesis (Master's specialisation)",
+            "History of Church and Theology (Master's specialisation)",
+            "Practical Theology (Master's specialisation)",
+            "Systematic Theology (Master's specialisation)",
+            "Religious Studies (Master's specialisation)"
         ],
         "faculty": [
             "Faculty of Philosophy, Theology and Religious Studies"
@@ -2999,11 +3932,11 @@
     },
     {
         "study": "Tourism and Culture",
-        "related studies": [
-            "Creative Industries",
-            "Ancient and Medieval Mediterranean Worlds",
-            "Cultural Policy and the Business of Art",
-            "Art and Visual Culture"
+        "related_studies": [
+            "Creative Industries (Master's specialisation)",
+            "Ancient and Medieval Mediterranean Worlds (Master's specialisation)",
+            "Cultural Policy and the Business of Art (Master's specialisation)",
+            "Art and Visual Culture (Master's)"
         ],
         "faculty": [
             "Faculty of Arts"
@@ -3013,11 +3946,11 @@
     },
     {
         "study": "Transatlantic Studies: History, Culture and Politics",
-        "related studies": [
-            "Comparative Politics: Democracies and Autocracies",
-            "International Relations",
-            "Politics and Parliament",
-            "Two-year Educational Master's English"
+        "related_studies": [
+            "Comparative Politics: Democracies and Autocracies (Master's specialisation | Joint programme optional)",
+            "International Relations (Master's specialisation | Joint programme optional)",
+            "Politics and Parliament (Master's specialisation)",
+            "Two-year Educational Master's English (Master's specialisation)"
         ],
         "faculty": [
             "Faculty of Arts"
@@ -3027,11 +3960,11 @@
     },
     {
         "study": "Two-year Educational Master's Art History and Cultural and Artistic Education",
-        "related studies": [
-            "One-year Educational Master's Art History and Cultural and Artistic Education",
-            "Art History",
-            "Cultural Policy and the Business of Art",
-            "Creative Industries"
+        "related_studies": [
+            "One-year Educational Master's Art History and Cultural and Artistic Education (Master's specialisation)",
+            "Art History (Master's specialisation)",
+            "Cultural Policy and the Business of Art (Master's specialisation)",
+            "Creative Industries (Master's specialisation)"
         ],
         "faculty": [
             "Faculty of Arts",
@@ -3041,10 +3974,10 @@
     },
     {
         "study": "Two-year Educational Master's Classics",
-        "related studies": [
-            "One-year Educational Master's Greek & Latin",
-            "Greek and Latin Language and Literature",
-            "Roman Archeology"
+        "related_studies": [
+            "One-year Educational Master's Greek & Latin (Master's specialisation)",
+            "Greek and Latin Language and Literature (Master's specialisation)",
+            "Roman Archeology (Master's specialisation)"
         ],
         "faculty": [
             "Faculty of Arts",
@@ -3054,11 +3987,11 @@
     },
     {
         "study": "Two-year Educational Master's Dutch",
-        "related studies": [
-            "One-year Educational Master's Dutch",
-            "Dutch as a Second Language: Teacher and Expert",
-            "The Book Industry",
-            "Literature and Society"
+        "related_studies": [
+            "One-year Educational Master's Dutch (Master's specialisation)",
+            "Dutch as a Second Language: Teacher and Expert (Master's specialisation)",
+            "The Book Industry (Master's specialisation)",
+            "Literature and Society (Master's specialisation)"
         ],
         "faculty": [
             "Faculty of Arts",
@@ -3068,11 +4001,11 @@
     },
     {
         "study": "Two-year Educational Master's English",
-        "related studies": [
-            "One-year Educational Master's English",
-            "Language Variation and Multilingualism",
-            "The Book Industry",
-            "Literature and Society"
+        "related_studies": [
+            "One-year Educational Master's English (Master's specialisation)",
+            "Language Variation and Multilingualism (Master's specialisation)",
+            "The Book Industry (Master's specialisation)",
+            "Literature and Society (Master's specialisation)"
         ],
         "faculty": [
             "Faculty of Arts",
@@ -3082,11 +4015,11 @@
     },
     {
         "study": "Two-year Educational Master's French",
-        "related studies": [
-            "One-year Educational Master's French",
-            "Language Variation and Multilingualism",
-            "The Book Industry",
-            "Literature and Society"
+        "related_studies": [
+            "One-year Educational Master's French (Master's specialisation)",
+            "Language Variation and Multilingualism (Master's specialisation)",
+            "The Book Industry (Master's specialisation)",
+            "Literature and Society (Master's specialisation)"
         ],
         "faculty": [
             "Faculty of Arts",
@@ -3096,17 +4029,17 @@
     },
     {
         "study": "Two-year Educational Master's Geography",
-        "related studies": [
-            "Cities, Water and Climate Change",
-            "Planning, Land and Real Estate Development",
-            "Urban and Regional Mobility",
-            "Conflict, Territories and Identities",
-            "Capital, Labour and Extraction",
-            "Borders, Migration and Justice",
-            "Cities, Culture and Inequality",
-            "Sustainable Economies and Corporations",
-            "Global Environment and Sustainability",
-            "Local Environmental Change and Sustainable Cities"
+        "related_studies": [
+            "Cities, Water and Climate Change (Master's specialisation)",
+            "Planning, Land and Real Estate Development (Master's specialisation)",
+            "Urban and Regional Mobility (Master's specialisation)",
+            "Conflict, Territories and Identities (Master's specialisation | Joint programme optional)",
+            "Capital, Labour and Extraction (Master's specialisation | Joint programme optional)",
+            "Borders, Migration and Justice (Master's specialisation | Joint programme optional)",
+            "Cities, Culture and Inequality (Master's specialisation | Joint programme optional)",
+            "Sustainable Economies and Corporations (Master's specialisation)",
+            "Global Environment and Sustainability (Master's specialisation)",
+            "Local Environmental Change and Sustainable Cities (Master's specialisation)"
         ],
         "faculty": [
             "Nijmegen School of Management",
@@ -3116,11 +4049,11 @@
     },
     {
         "study": "Two-year Educational Master's German",
-        "related studies": [
-            "One-year Educational Master's German",
-            "Dutch-German-Studies (joint degree)",
-            "The Book Industry",
-            "Literature and Society"
+        "related_studies": [
+            "One-year Educational Master's German (Master's specialisation)",
+            "Dutch-German-Studies (joint degree) (Master's | Joint programme)",
+            "The Book Industry (Master's specialisation)",
+            "Literature and Society (Master's specialisation)"
         ],
         "faculty": [
             "Faculty of Arts",
@@ -3130,11 +4063,11 @@
     },
     {
         "study": "Two-year Educational Master's History",
-        "related studies": [
-            "One-year Educational Master's History and Civics",
-            "Modern and Contemporary History",
-            "Politics and Parliament",
-            "Ancient and Medieval Mediterranean Worlds"
+        "related_studies": [
+            "One-year Educational Master's History and Civics (Master's specialisation)",
+            "Modern and Contemporary History (Master's specialisation)",
+            "Politics and Parliament (Master's specialisation)",
+            "Ancient and Medieval Mediterranean Worlds (Master's specialisation)"
         ],
         "faculty": [
             "Faculty of Arts",
@@ -3144,11 +4077,11 @@
     },
     {
         "study": "Two-year Educational Master's Philosophy",
-        "related studies": [
-            "One-year Educational Master's Philosophy",
-            "Two-year Educational Master's Religion",
-            "Practical Philosophy: Critique of Modernity",
-            "One-year Educational Master's Social Studies and Social Sciences"
+        "related_studies": [
+            "One-year Educational Master's Philosophy (Master's specialisation)",
+            "Two-year Educational Master's Religion (Master's specialisation)",
+            "Practical Philosophy: Critique of Modernity (Master's specialisation)",
+            "One-year Educational Master's Social Studies and Social Sciences (Master's)"
         ],
         "faculty": [
             "Faculty of Philosophy, Theology and Religious Studies",
@@ -3158,9 +4091,9 @@
     },
     {
         "study": "Two-year Educational Master's Religion",
-        "related studies": [
-            "One-year Educational Master's Religious Studies",
-            "Educatieve Minor of Module Godsdienst & levensbeschouwing"
+        "related_studies": [
+            "One-year Educational Master's Religious Studies (Master's specialisation)",
+            "Education Module Religious Studies (Educatieve minor/ module)"
         ],
         "faculty": [
             "Faculty of Philosophy, Theology and Religious Studies",
@@ -3169,13 +4102,23 @@
         "study_type": "Master's specialisation"
     },
     {
+        "study": "Two-year Educational Master's Science Education",
+        "related_studies": [],
+        "faculty": [
+            "Faculty of Science",
+            "Radboud Teachers Academy"
+        ],
+        "student_count": "23",
+        "study_type": "Master's"
+    },
+    {
         "study": "Two-year Educational Master's Social Studies",
-        "related studies": [
-            "Two-year Educational Master's Geography",
-            "Two-year Educational Master's Philosophy",
-            "Two-year Educational Master's History",
-            "Two-year Educational Master's Religion",
-            "Two-year Educational Master's Art History and Cultural and Artistic Education"
+        "related_studies": [
+            "Two-year Educational Master's Geography (Master's specialisation)",
+            "Two-year Educational Master's Philosophy (Master's specialisation)",
+            "Two-year Educational Master's History (Master's specialisation)",
+            "Two-year Educational Master's Religion (Master's specialisation)",
+            "Two-year Educational Master's Art History and Cultural and Artistic Education (Master's specialisation)"
         ],
         "faculty": [
             "Nijmegen School of Management",
@@ -3185,11 +4128,11 @@
     },
     {
         "study": "Two-year Educational Master's Spanish",
-        "related studies": [
-            "One-year Educational Master's Spanish",
-            "Language Variation and Multilingualism",
-            "The Book Industry",
-            "Literature and Society"
+        "related_studies": [
+            "One-year Educational Master's Spanish (Master's specialisation)",
+            "Language Variation and Multilingualism (Master's specialisation)",
+            "The Book Industry (Master's specialisation)",
+            "Literature and Society (Master's specialisation)"
         ],
         "faculty": [
             "Faculty of Arts",
@@ -3198,10 +4141,82 @@
         "study_type": "Master's specialisation"
     },
     {
+        "study": "Two-year Educational Pre-Master's Art History and Cultural and Artistic Education",
+        "related_studies": [],
+        "faculty": [
+            "Faculty of Arts"
+        ],
+        "study_type": "Pre-Master's"
+    },
+    {
+        "study": "Two-year Educational Pre-Master's Dutch",
+        "related_studies": [],
+        "faculty": [
+            "Faculty of Arts"
+        ],
+        "study_type": "Pre-Master's"
+    },
+    {
+        "study": "Two-year Educational Pre-Master's English",
+        "related_studies": [],
+        "faculty": [
+            "Faculty of Arts"
+        ],
+        "study_type": "Pre-Master's"
+    },
+    {
+        "study": "Two-year Educational Pre-Master's French",
+        "related_studies": [],
+        "faculty": [
+            "Faculty of Arts"
+        ],
+        "study_type": "Pre-Master's"
+    },
+    {
+        "study": "Two-year Educational Pre-Master's Geography",
+        "related_studies": [],
+        "faculty": [
+            "Nijmegen School of Management"
+        ],
+        "study_type": "Pre-Master's"
+    },
+    {
+        "study": "Two-year Educational Pre-Master's German",
+        "related_studies": [],
+        "faculty": [
+            "Faculty of Arts"
+        ],
+        "study_type": "Pre-Master's"
+    },
+    {
+        "study": "Two-year Educational Pre-Master's History",
+        "related_studies": [],
+        "faculty": [
+            "Faculty of Arts"
+        ],
+        "study_type": "Pre-Master's"
+    },
+    {
+        "study": "Two-year Educational Pre-Master's Society Studies",
+        "related_studies": [],
+        "faculty": [
+            "Nijmegen School of Management"
+        ],
+        "study_type": "Pre-Master's"
+    },
+    {
+        "study": "Two-year Educational Pre-Master's Spanish",
+        "related_studies": [],
+        "faculty": [
+            "Faculty of Arts"
+        ],
+        "study_type": "Pre-Master's"
+    },
+    {
         "study": "Urban and Regional Mobility",
-        "related studies": [
-            "Cities, Water and Climate Change",
-            "Planning, Land and Real Estate Development"
+        "related_studies": [
+            "Cities, Water and Climate Change (Master's specialisation)",
+            "Planning, Land and Real Estate Development (Master's specialisation)"
         ],
         "faculty": [
             "Nijmegen School of Management"
@@ -3211,13 +4226,13 @@
     },
     {
         "study": "Work, Organisation and Health",
-        "related studies": [
-            "Behaviour Change",
-            "Healthcare Psychology",
-            "Behavioural Science (research)",
-            "Intersectional Gender Studies",
-            "Social and Cultural Science: Comparative Research on Societies (research)",
-            "Cognitive Neuroscience (research)"
+        "related_studies": [
+            "Behaviour Change (Master's specialisation)",
+            "Healthcare Psychology (Master's specialisation)",
+            "Behavioural Science (research) (Research Master's)",
+            "Intersectional Gender Studies (Master's)",
+            "Social and Cultural Science: Comparative Research on Societies (research) (Research Master's)",
+            "Cognitive Neuroscience (research) (Research Master's)"
         ],
         "faculty": [
             "Faculty of Social Sciences"
